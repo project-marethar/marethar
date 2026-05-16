@@ -14,8 +14,17 @@ ambientazione/          ← Italian source (read-only reference)
   marethar_v2.md        ← Full assembled Italian source
   world_reference_document.md  ← Blank structural template; do not translate
 
-en/                     ← English output
+en/                     ← English output (canonical content — used by both pipelines)
+  index.md              ← Wiki/book home page
   part0/ – part6/      ← Translated files land here, same filename
+
+wiki/                   ← Quartz v4 static wiki (reads from ../en at build time)
+filters/                ← Pandoc Lua filters
+  strip_wikilinks.lua   ← Strips [[...]] wikilinks for Quarto render
+_quarto.yml             ← Quarto book project config (PDF + EPUB output)
+index.qmd               ← Quarto root home page (includes en/index.md)
+public/                 ← Quartz build output (gitignored)
+_book/                  ← Quarto build output (gitignored)
 
 GLOSSARY.md             ← Authoritative proper-noun and term reference
 PROGRESS.md             ← Per-file translation status ([ ] / [~] / [x] / [R])
@@ -44,11 +53,52 @@ PROGRESS.md             ← Per-file translation status ([ ] / [~] / [x] / [R])
 - `/translate parte2/02_culture.md` — translate a specific file.
 - `/next` — auto-detect the next pending file and translate it.
 - `/polish en/part2/02_culture.md` — prose-polish pass on a translated file: removes AI-formula language, em-dashes, and structural anti-patterns.
+- `/wikilinks en/part2/05_nations.md` — add `[[wikilinks]]` to a translated file for Quartz navigation.
 
 **Output convention:** translated file goes to `en/<same-relative-path>` with the same filename.
 Example: `ambientazione/parte2/02_culture.md` → `en/part2/02_culture.md`
 
 **After each file:** update `PROGRESS.md` (mark `[x]`, increment counter) and note any new glossary entries.
+
+# Phase 2 — Publication Pipelines
+
+## Quartz Wiki
+
+Builds a navigable HTML wiki from the `en/` content directory.
+
+**Local build:**
+```
+cd wiki
+npx quartz build --directory ../en --output ../public
+```
+
+**Preview locally:**
+```
+cd wiki
+npx quartz build --serve --directory ../en
+```
+
+Deploys automatically to GitHub Pages on push to `main` via `.github/workflows/deploy-wiki.yml`.
+The wiki URL is `https://zeruhur.github.io/marethar_en`.
+
+## Quarto (PDF + EPUB)
+
+Renders the full book from `en/` using `_quarto.yml`. Wikilinks are stripped by `filters/strip_wikilinks.lua`.
+
+**Local build:**
+```
+quarto render --to epub
+quarto render --to pdf
+```
+
+Output lands in `_book/`. CI workflow: `.github/workflows/render-book.yml`.
+
+## /wikilinks command
+
+Run `/wikilinks en/<file>` to add `[[...]]` wikilinks to a translated file.
+- Links first occurrence of each glossary term per section
+- Does not double-link already-linked terms
+- Flags any entities found in the file that are missing from GLOSSARY.md
 
 # Role and Objective
 

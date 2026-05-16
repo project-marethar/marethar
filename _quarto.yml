@@ -1,0 +1,63 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Marethar"
+  subtitle: "A Dark-Fantasy Gunpowder Setting"
+  author: "Roberto Bisceglie (Orizzonti GDR)"
+  date: "2026"
+  chapters:
+    - index.qmd
+    - en/part0/00_title.md
+    - en/part1/00_cover.md
+    - en/part1/01_introduction.md
+    - en/part1/02_how_to_use.md
+    - en/part1/03_seeds.md
+    - en/part1/04_power.md
+    - en/part1/05_magic.md
+    - en/part2/00_cover.md
+    - en/part2/01_chronology.md
+    - en/part2/02_culture.md
+    - en/part2/03_religions.md
+    - en/part2/04_geography.md
+    - en/part2/05_nations.md
+    - en/part2/06_organizations.md
+    - en/part2/07_daily_life.md
+    - en/part3/00_cover.md
+    - en/part3/01_bestiary.md
+    - en/part3/02_relics.md
+    - en/part3/03_fragments.md
+    - en/part3/04_questions.md
+    - en/part4/00_cover.md
+    - en/part4/01_entry_points.md
+    - en/part4/02_tensions.md
+    - en/part4/03_roles.md
+    - en/part4/04_materials.md
+    - en/part4/05_adventures.md
+    - en/part5/00_cover.md
+    - en/part5/01_culture.md
+    - en/part5/02_nations.md
+    - en/part5/03_religions.md
+    - en/part5/04_flora_fauna.md
+    - en/part5/05_society.md
+    - en/part5/06_economy.md
+    - en/part5/07_technology.md
+    - en/part5/08_notable_characters.md
+    - en/part5/09_myths.md
+    - en/part6/01_adventure_tables.md
+
+filters:
+  - filters/strip_wikilinks.lua
+
+format:
+  pdf:
+    documentclass: book
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    colorlinks: true
+    keep-tex: false
+  epub:
+    toc: true
+    toc-depth: 2
