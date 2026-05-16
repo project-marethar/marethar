@@ -1,6 +1,6 @@
 ## 🝰 Adventures and Campaigns
 
-**Description:** This chapter offers suggestions for adventures and campaigns set in Marethar, providing narrative hooks, plots, and missions for players. The ideas presented span a wide range of themes, from exploration and adventure to diplomacy and conflict, giving players the opportunity to engage deeply with the world of Marethar.
+**Description:** This chapter offers suggestions for adventures and campaigns set in Marethar, providing narrative hooks, plots, and missions for players.
 
 ### **Adventure Ideas**
 
@@ -80,4 +80,4 @@
 
 * **Description:** A magnificent citadel along the great River Dor, heart of the Empire of Doria.
 * **Hazards:** Imperial guards, political intrigues, river magic.
-* **Rewards:** Access to powerful allies, river resources, secrets of water magic.
+* **Rewards:** Access to influential allies, river resources, secrets of water magic.

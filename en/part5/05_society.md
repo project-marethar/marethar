@@ -79,7 +79,7 @@ Lysandria is a federation of city-states with democratic or oligarchic governmen
 
 **Traditions:** Tribal culture with strong family and clan ties.
 
-* **Rites of Passage:** Ceremonies marking life's thresholds — birth, coming of age, and marriage.
+* **Rites of Passage:** Ceremonies marking life's thresholds: birth, coming of age, and marriage.
 * **Harvest Festivals:** Celebrations of gratitude to the gods for abundant harvests.
 
 **Customs:** Nomadic life with a strong emphasis on honor and tradition.

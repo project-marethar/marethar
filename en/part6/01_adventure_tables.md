@@ -1,16 +1,16 @@
-# 🝰 Part VI — Adventure Tables
+﻿# 🝰 Part VI: Adventure Tables
 
 ## **Adventure Seeds**
 
 ### **Political & Diplomatic Adventure Seeds**
 
 1. A minister is mysteriously poisoned on the eve of a peace treaty.
-2. A spy is captured carrying compromising documents — but who sent them?
+2. A spy is captured carrying compromising documents, but who sent them?
 3. A noble asks for help eliminating a political rival in exchange for power.
 4. A diplomatic marriage collapses when one of the betrothed disappears.
 5. An embassy is attacked, inflaming tensions between nations.
 6. A long-standing ally turns out to be a double agent working for the enemy.
-7. A kidnapped princess is found — but she insists she fled of her own will.
+7. A kidnapped princess is found, but she insists she fled of her own will.
 8. A rebellion is about to erupt among the nobility, secretly stirred by a neighboring nation.
 9. The leader of a city-state dies suddenly and the succession is bitterly contested.
 10. A treaty is voided when a nation uncovers a diplomatic betrayal.
@@ -45,7 +45,7 @@
 16. A sacred object disappears without trace, threatening the stability of a kingdom.
 17. The druids of a sacred forest call for help to repel a supernatural threat.
 18. A secret sect seeks to resurrect an ancient empire through a forbidden ritual.
-19. A lost relic reappears — but it carries a devastating curse.
+19. A lost relic reappears, but it carries a devastating curse.
 20. An unfulfilled prophecy demands that the players find the one hidden heir.
 
 ### **Maritime & Exploration Adventure Seeds**
@@ -78,7 +78,7 @@
 3. An entire commercial caravan vanishes without a trace in the desert.
 4. A major trade route is blocked by a feud between rival city-states.
 5. A merchant guild needs protection for the transport of a secret cargo.
-6. A new material discovered in the mountains promises immense wealth — but it is extremely dangerous.
+6. A new material discovered in the mountains promises immense wealth, but it is extremely dangerous.
 7. A group of merchants seeks help to escape an unjust contract signed with a powerful guild.
 8. Pirates have blocked one of the main sea routes, collapsing the local economy.
 9. A mysterious epidemic afflicts mine workers, halting the extraction of crucial resources.
@@ -92,7 +92,7 @@
 17. A trading outpost has been attacked and occupied by rebels or bandits.
 18. An archaeological discovery could shift the trade routes, but powerful parties want it kept secret.
 19. A dispute between two merchant families threatens to spill into civil war.
-20. An underground market offers rare and illegal goods — but it is closely watched.
+20. An underground market offers rare and illegal goods, but it is closely watched.
 
 ### **Wilderness Adventure Seeds**
 
@@ -100,7 +100,7 @@
 2. An explorer has spotted strange lights rising from the ruins of an ancient city.
 3. A legendary creature is terrorizing the plains, destroying villages and caravans.
 4. A rare healing plant has bloomed only in a dangerous and remote region.
-5. A local tribe warns the players not to cross a certain sacred boundary — but no one knows why.
+5. A local tribe warns the players not to cross a certain sacred boundary, but no one knows why.
 6. A hunter disappears during an expedition into a forest considered cursed.
 7. Strange signs and symbols appear overnight on rocks and trees in a remote valley.
 8. Local animals behave in a strange and aggressive manner with no apparent explanation.
@@ -110,7 +110,7 @@
 12. An unexplored cavern is found, containing strange artifacts of a lost civilization.
 13. An isolated tribe calls for help defending itself from mysterious nocturnal invaders.
 14. A magical storm has devastated the region, creating dangerous mutations in the local flora and fauna.
-15. An explorer reveals a new region full of ancient remains — but claims to be followed by strange shadows.
+15. An explorer reveals a new region full of ancient remains, but claims to be followed by strange shadows.
 16. A legendary hunter challenges the players to track a mythic beast that has been terrorizing the area.
 17. A strange epidemic spreads among the wild-land inhabitants, and no one knows how to stop it.
 18. A series of ritual murders leaves bodies arranged in symbolic patterns across the region.
@@ -160,7 +160,7 @@
 10. A hawk, a scroll tied to its leg, lands on a nearby branch.
 11. A circle of druids performs a sacred ritual beneath an ancient tree.
 12. A giant serpent slides between the roots of a great oak, coiled to strike.
-13. A pool of water reflects mystical visions of the future — but only for a few seconds.
+13. A pool of water reflects mystical visions of the future, but only for a few seconds.
 14. A sudden storm strikes the forest, making travel extremely difficult.
 15. A forest spirit offers help to the players in exchange for a secret task.
 16. A group of mercenaries has hidden stolen goods in a concealed cave.
@@ -198,7 +198,7 @@
 2. A herd of iron ibexes blocks a pass, indifferent to the human presence.
 3. A lost miner calls for help escaping a stone golem that pursues him.
 4. An ancient cavern, revealed by a landslide, seems to emanate a magical aura.
-5. A mountain lynx chases prey — and crosses the path of the group.
+5. A mountain lynx chases prey, and crosses the path of the group.
 6. A summit eagle attacks anyone who ventures too close to its nest.
 7. A group of explorers believes they have found a gold vein, but strange phenomena begin to occur.
 8. An inactive volcano begins emitting smoke, heralding disaster.
@@ -209,7 +209,7 @@
 13. A mountain dragon wakes from a long sleep and reclaims its ancient domain.
 14. An ancient temple hidden among the peaks is guarded by animated statues.
 15. A group of mercenaries has blockaded a key pass, demanding tolls.
-16. The ancient armor of a legendary hero is found in a cave — but it is said to be cursed.
+16. The ancient armor of a legendary hero is found in a cave, but it is said to be cursed.
 17. A sudden earthquake tears open a new chasm, revealing forgotten ruins.
 18. A squad of mountain brigands ambushes travelers on a narrow road.
 19. A mysterious monk in meditation predicts an imminent natural disaster.
@@ -223,10 +223,10 @@
 4. A strange green mist rises from the swamp waters, causing hallucinations in those who breathe it.
 5. A giant water serpent erupts from the depths without warning.
 6. A marsh hermit offers sage advice in exchange for rare herbs found only in the swamp.
-7. An abandoned stilt house sinks slowly into the mire — but it is said to harbor a forgotten treasure.
+7. An abandoned stilt house sinks slowly into the mire, but it is said to harbor a forgotten treasure.
 8. A torrential rain transforms the paths into rivers, making travel treacherous.
 9. A group of mercenaries flees something in the marshes but refuses to explain what.
-10. A semi-intelligent amphibian tribe offers a pact to protect the swamp — at a price.
+10. A semi-intelligent amphibian tribe offers a pact to protect the swamp, at a price.
 11. A heron briefly addresses the players, delivering a cryptic message.
 12. Strange chanting echoes among the reeds, drawing whoever follows it toward a submerged ruin.
 13. A scarlet water lily blooms suddenly, revealing a small gemstone at its center.
@@ -243,7 +243,7 @@
 1. A flock of hill goats flees in terror, chased by something invisible.
 2. A group of vintners tells of seeing strange lights moving through the vines at night.
 3. A wild boar charges furiously at anyone who nears its territory.
-4. A centaur emerges from the hills and offers a riddle — solve it, and a favor will be granted.
+4. A centaur emerges from the hills and offers a riddle, solve it, and a favor will be granted.
 5. A nest of swallows has settled in an old watchtower, considered a good omen.
 6. A group of farmers tells of mysterious livestock disappearances during the night.
 7. A rare royal lavender blooms for only a few hours, drawing alchemists and scholars.
@@ -253,7 +253,7 @@
 11. A stone quarry is watched over by strange earth spirits that protect the sacred minerals.
 12. A group of hill centaurs gathers for an ancient ritual and wants no intruders.
 13. A strange haze spreads through the hills, causing visions and illusions in those who cross it.
-14. An ancient cellar is discovered beneath an abandoned villa — but it is haunted by restless spirits.
+14. An ancient cellar is discovered beneath an abandoned villa, but it is haunted by restless spirits.
 15. A cart laden with fine wine has overturned along the path, and the merchants ask for help.
 16. A giant serpent has nested in the vineyards, threatening the entire harvest.
 17. A distant song draws the group toward a sacred hill, home to an ancient forgotten temple.
@@ -263,20 +263,20 @@
 
 #### **Encounters on the Islands of the Marethar**
 
-1. A group of local fishermen hauls in a net full of fish — but the scales bear strange carved symbols.
+1. A group of local fishermen hauls in a net full of fish, but the scales bear strange carved symbols.
 2. A sudden storm drives the group onto an unknown island that appears on no map.
 3. A legendary pirate appears on the horizon, demanding an ancient tribute before granting free passage.
 4. A colony of seabirds gathers around an abandoned lighthouse, and something seems to gleam at the top.
 5. A mysterious castaway offers help, but his past seems riddled with dangerous secrets.
 6. An ancient submerged temple emerges briefly during an exceptionally low tide.
-7. An island believed uninhabited shows recent signs of settlement — fires burning, boats moored.
+7. An island believed uninhabited shows recent signs of settlement, fires burning, boats moored.
 8. Strange lights dance above the water, luring anyone who draws too close.
 9. A small fishing village offers hospitality, but its inhabitants seem too friendly to be sincere.
 10. A battle between two pirate ships erupts near the coast, dragging the group into the fray.
-11. An ancient tree on a central island is venerated as sacred — touching it may unleash curses.
+11. An ancient tree on a central island is venerated as sacred, touching it may unleash curses.
 12. A leviathan is spotted in the distance, sending even the most seasoned sailors into panic.
 13. A siren rises from the depths, asking for help to break an ancient curse.
-14. A group of explorers has found a cave full of treasure — guarded by strange amphibious creatures.
+14. A group of explorers has found a cave full of treasure, guarded by strange amphibious creatures.
 15. An abandoned lighthouse suddenly reignites, but no one seems to know who lit it.
 16. A spice merchant is shipwrecked near the island, offering precious goods in exchange for rescue.
 17. A naval armada from a neighboring nation blocks the passage, demanding tributes or information on local pirates.
@@ -286,23 +286,23 @@
 
 #### **Encounters in the Desert of Qadmath**
 
-1. A group of caravans halts at an oasis — but the water seems poisoned by a dark creature lurking below.
+1. A group of caravans halts at an oasis, but the water seems poisoned by a dark creature lurking below.
 2. A desert ifrit appears among the dunes, offering a pact in exchange for a perilous favor.
 3. A sudden sandstorm strikes, concealing an ancient portal between the dunes.
 4. A solitary merchant wanders the desert, claiming to have found a lost city full of treasure.
 5. A nomadic tribe offers hospitality but asks for help defending against a mysterious nocturnal predator.
-6. A colossal roc soars over the desert, bearing immense prey — but it seems interested in the travelers.
+6. A colossal roc soars over the desert, bearing immense prey, but it seems interested in the travelers.
 7. A hidden oasis appears without warning, but the locals warn not to trust its waters.
 8. An ancient pyramid emerges from the sand after a storm, revealing an entrance sealed for millennia.
 9. A giant serpent burrows beneath the sand in pursuit of the group, surging between the dunes.
-10. A group of desert hunters offers to guide the party across the dunes — but they are clearly more interested in the travelers' wealth.
+10. A group of desert hunters offers to guide the party across the dunes, but they are clearly more interested in the travelers' wealth.
 11. A vision of an ancient desert king appears between the dunes, promising fortune to whoever follows him.
 12. An enormous levitating rock drifts slowly across the desert, trailing a wake of magical energy.
 13. An ancient sand statue animates and begins walking toward an unknown destination, ignoring everything in its path.
 14. A swarm of golden scorpions attacks without warning, defending an ancient object buried in the sand.
 15. A forgotten road appears suddenly, marked by worn milestones and mysterious graffiti.
-16. A caravan driver speaks of a fire storm that burns only the impure of heart — and it is approaching fast.
-17. A relic hunter finds an ancient artifact — but it seems cursed, bringing misfortune to the group.
+16. A caravan driver speaks of a fire storm that burns only the impure of heart, and it is approaching fast.
+17. A relic hunter finds an ancient artifact, but it seems cursed, bringing misfortune to the group.
 18. A sacred oasis appears, protected by desert spirits who demand respect and offerings.
 19. A cavern hidden beneath the dunes houses a colony of giant bats, guardians of ancient inscriptions.
 20. A vision of a phantom caravan appears on the horizon, leading those who follow it to be lost forever in the desert.
@@ -318,22 +318,22 @@
 7. A band of bandits ambushes travelers along the riverbanks, stealing goods and passengers.
 8. A strange green mist rises from the river at night, bringing strange visions and whispers among the waves.
 9. A ghost ship ploughs the waters by night, visible only by its spectral lights.
-10. A group of devotees gathers along the banks to perform a sacrifice to the river god — and the ritual goes badly wrong.
+10. A group of devotees gathers along the banks to perform a sacrifice to the river god, and the ritual goes badly wrong.
 11. An enormous sudden surge rushes down the river, carrying wreckage and mysterious objects in its wake.
 12. An ancient water dragon rises from the river's depths, protecting a submerged sacred site.
 13. A strange hybrid creature emerges from the river, shifting form between water and land.
 14. A secret cult gathers near the river delta, performing rites to control the floods.
 15. A sudden drought draws back the river's waters, revealing ancient ruins hidden in the dry bed.
 16. A shipment of goods washes ashore, but it seems to be cursed.
-17. A group of laborers attempts to build a dam to control the waters — and meets resistance from mysterious creatures.
+17. A group of laborers attempts to build a dam to control the waters, and meets resistance from mysterious creatures.
 18. An ancient abandoned dock reveals inscriptions indicating the presence of a hidden treasure along the river.
-19. A group of smugglers uses a river island as a hideout — but one of their own has betrayed them.
-20. A sacred ibis flies over the players' boat — omen of good fortune, or of imminent danger.
+19. A group of smugglers uses a river island as a hideout, but one of their own has betrayed them.
+20. A sacred ibis flies over the players' boat, omen of good fortune, or of imminent danger.
 
 #### **Encounters on the Grasslands of Dajilia**
 
 1. A herd of antelopes crosses the grasslands erratically, as though chased by an invisible creature.
-2. A nomadic shepherd searches for his missing livestock, fearing it was stolen — or worse.
+2. A nomadic shepherd searches for his missing livestock, fearing it was stolen, or worse.
 3. A group of nomadic brigands moves silently through the tall grass, watching the travelers.
 4. A buffalo herd goes suddenly berserk, trampling everything in its path.
 5. A mysterious predator has been attacking the shepherds' livestock, and no one can identify it.
@@ -343,7 +343,7 @@
 9. A giant hawk soars over the plains, hunting prey, while shepherds scramble for shelter.
 10. A shepherd tells stories of a legendary monster that hunts at night, begging for protection.
 11. A group of explorers finds an abandoned camp with only bloodstains and hoof prints around it.
-12. An invisible predator — perhaps a spirit or magical creature — begins stalking the group, leaving only faint tracks.
+12. An invisible predator, perhaps a spirit or magical creature, begins stalking the group, leaving only faint tracks.
 13. A group of nomads gathers for a sacred celebration, but a sinister omen seems to hang over them.
 14. An ancient stele erupts from the ground after a landslide, bearing ancient forgotten prayers.
 15. A caravan of smugglers is pursued by local mercenaries and seeks refuge in the grasslands.
@@ -355,7 +355,7 @@
 
 #### **Encounters in the Forests of Linia** *(extended)*
 
-1. A Linian deer, wounded by an arrow, runs toward the group — chased by local hunters.
+1. A Linian deer, wounded by an arrow, runs toward the group, chased by local hunters.
 2. An old alchemist searches for ingredients for a powerful healing potion and asks for help finding the rare golden fern.
 3. A forest dragon guards a clearing, preventing anyone from approaching an ancient sacred tree.
 4. A group of woodcutters has accidentally felled a sacred tree, and the forest spirits exact their revenge.
@@ -367,7 +367,7 @@
 10. An abandoned ancient sanctuary is revealed to be haunted by restless spirits, protectors of the forest.
 11. The golden fern blooms for only a few hours, but its flower has extraordinary healing properties.
 12. Strange voices and laughter come from the forest's shadows, making the group feel watched.
-13. A sudden storm forces the group to shelter in an abandoned hut — one that appears inhabited by supernatural forces.
+13. A sudden storm forces the group to shelter in an abandoned hut, one that appears inhabited by supernatural forces.
 14. A local hunter searches for his missing family, suspecting they were taken by magical creatures.
 15. An ancient battle between druids and forest creatures is about to repeat itself, with the group caught in the middle.
 16. A royal eagle delivers a ciphered message that must be brought to a reclusive druid.
@@ -378,25 +378,25 @@
 
 #### **Encounters in the Rashian Mountains**
 
-1. A group of miners uncovers a new gold vein — but it is infested with stone golems guarding the entrance.
+1. A group of miners uncovers a new gold vein, but it is infested with stone golems guarding the entrance.
 2. A sudden rockfall reveals an ancient network of hidden tunnels, rich in ancient treasures but crawling with subterranean creatures.
 3. A summit eagle seizes an iron ibex calf, causing chaos among the mountain herds.
 4. A group of merchants is caught by a blizzard and stranded on a treacherous mountain pass.
 5. A mountain village is threatened by a fire dragon that has woken from centuries of slumber.
 6. A band of mercenaries has built a makeshift fortress on one of the peaks, terrorizing the nearby villages.
-7. An ancient suspension bridge between two peaks is disintegrating — the group must cross before it collapses.
+7. An ancient suspension bridge between two peaks is disintegrating, the group must cross before it collapses.
 8. A group of monks lives in solitude in a mountain monastery, but their ancient practices are drawing malevolent spirits.
-9. A hidden cavern houses a small underground lake whose waters have magical properties — defended by an ancestral guardian.
+9. A hidden cavern houses a small underground lake whose waters have magical properties, defended by an ancestral guardian.
 10. A stone golem is accidentally awakened by miners, causing devastation in the tunnels.
 11. A group of highlanders offers to guide the party through a safe pass in exchange for protection from a common enemy.
 12. A strange light glows on a mountain's summit, but no one who followed it ever returned to tell the tale.
-13. A group of imperial knights searches for an artifact hidden in a cave — the road is guarded by mountain spirits.
-14. An ancient temple dedicated to Tudeshkhast, the Flying Sage of Fate, has been rediscovered — but it is shielded by lethal enchantments.
+13. A group of imperial knights searches for an artifact hidden in a cave, the road is guarded by mountain spirits.
+14. An ancient temple dedicated to Tudeshkhast, the Flying Sage of Fate, has been rediscovered, but it is shielded by lethal enchantments.
 15. A massive griffin attacks anyone who approaches its nest, which contains priceless eggs.
-16. A hidden ancient hot spring possesses healing properties — defended by elemental creatures.
+16. A hidden ancient hot spring possesses healing properties, defended by elemental creatures.
 17. A band of mountain brigands ambushes travelers on a narrow road, seeking to rob anyone who passes.
 18. Strange chanting echoes between the peaks, raising the belief that forgotten tribes live high in the mountains.
-19. An avalanche threatens an entire village — only the players' swift intervention can save it.
+19. An avalanche threatens an entire village, only the players' swift intervention can save it.
 20. A local noble has gone missing while searching for a relic in the mountain caves, and the group is charged with finding him.
 
 ---
@@ -438,11 +438,11 @@
 28. "A pirate of the Rhithian League is selling maps of sunken ruins."
 29. "They say a shipment of pearls from Lysandria is cursed. Nobody will buy it."
 30. "A wealthy widow is seeking mercenaries to protect her last silk convoy."
-31. "The trade routes between Rashia and Premia have become unsafe — probably bandits."
+31. "The trade routes between Rashia and Premia have become unsafe, probably bandits."
 32. "A group of smugglers is trafficking forbidden artifacts from the wilderness."
 33. "Meshdad fabrics are crashing in price; someone is sabotaging production."
 34. "An entire gold mine collapsed in the Kingdom of Vallan, and no one knows why."
-35. "Apparently there's a new way to transport spices without going through Rashia — but it's dangerous."
+35. "Apparently there's a new way to transport spices without going through Rashia, but it's dangerous."
 36. "The Naval Builders' Corporation of Lysandria is building something large and secret."
 37. "An ancient temple was found under a local market, and people are afraid to go near it."
 38. "A famous merchant bought an entire island, but no one knows what he plans to do with it."
@@ -486,12 +486,12 @@
 6. A feast of thanksgiving for a battle won transforms into a dark invocation.
 7. A rare celestial alignment calls for a ceremony involving all the major deities.
 8. The cult of a new heretical deity organizes a secret procession in the dead of night.
-9. A city prepares for the great rite of water purification — and strange phenomena begin to manifest.
+9. A city prepares for the great rite of water purification, and strange phenomena begin to manifest.
 10. The main temple of a great city requires a rare relic to complete a sacred ceremony.
 11. A deity sends a message to its followers through signs in the sky, and the population is divided on how to interpret it.
 12. A royal marriage is declared cursed unless a rite of purification is performed.
 13. An ancient fertility rite is in danger of failing for the first time in centuries, threatening the harvests.
-14. A group of druids performs a ritual to protect the sacred forest — and something goes terribly wrong.
+14. A group of druids performs a ritual to protect the sacred forest, and something goes terribly wrong.
 15. An oracle announces a prophecy tied to a ritual that must be performed in a remote location.
 16. The players are invited to participate in a rite to appease an angered deity.
 17. A dark sect seeks to complete a forbidden ritual to awaken an ancient evil.
@@ -529,24 +529,24 @@
 ### **Shipwrecks & Maritime Hazards**
 
 1. A pirate ship sinks during a sudden storm, leaving a handful of survivors adrift.
-2. A mysterious iceberg appears on the horizon — something seems to glow from within.
+2. A mysterious iceberg appears on the horizon, something seems to glow from within.
 3. An unexpected underwater current drags the ship toward a series of jagged rocks.
 4. A ghost ship materializes nearby, trailing the players at a distance.
-5. Sailors report spotting an enormous shadow beneath the waves — perhaps a leviathan.
+5. Sailors report spotting an enormous shadow beneath the waves, perhaps a leviathan.
 6. A mysterious magical fog envelops the ship, and half the crew disappears.
 7. An ancient wreck rises from the sea's depths during a storm.
 8. The ship strikes a reef of magical coral that throws off the compass and sextant.
 9. A violent storm erupts suddenly, tearing the sails and damaging the rudder.
 10. A colossal whale rams the ship, threatening to sink it.
-11. A distant cry — almost human — rises from the water, drawing the crew's attention.
+11. A distant cry, almost human, rises from the water, drawing the crew's attention.
 12. The marine currents reverse suddenly, dragging the ship toward a volcanic island.
 13. A charge of explosive barrels on board shifts during a storm, endangering the entire crew.
 14. A tentacled creature attacks the ship without warning, seeking to drag it into the abyss.
 15. An abandoned ship is spotted adrift, apparently without a crew.
-16. Seabirds vanish suddenly — omen of an impending storm.
+16. Seabirds vanish suddenly, omen of an impending storm.
 17. A mysterious black schooner follows the ship at a distance, never drawing too close.
 18. The ship encounters a fleet of sunken vessels, swallowed by a marine vortex.
-19. An island in the distance seems to shift slowly — revealing itself to be a colossal sea creature.
+19. An island in the distance seems to shift slowly, revealing itself to be a colossal sea creature.
 20. A siren enchants the crew with her song, leading the ship toward a reef.
 
 ---
@@ -565,10 +565,10 @@
 10. Negotiations fail because of old rivalries and unfounded suspicions.
 11. An unexpected ally takes the rival faction's side at the last moment.
 12. A pact is signed, but it transpires that the rival delegation was already plotting an invasion.
-13. Negotiations conclude with a temporary truce — but both parties are already planning new conflicts.
+13. Negotiations conclude with a temporary truce, but both parties are already planning new conflicts.
 14. A commercial treaty collapses when a key resource suddenly becomes scarce.
 15. A diplomatic envoy defects and offers secret information to a rival faction.
-16. The alliance treaty stipulates military aid — but the reinforcements never arrive.
+16. The alliance treaty stipulates military aid, but the reinforcements never arrive.
 17. A diplomatic marriage is canceled when the groom is revealed to be an impostor.
 18. Peace is reached, but a dark prophecy threatens to send everything to ruin.
 19. A diplomatic faction betrays its sovereign and seizes control of the negotiations.
@@ -610,14 +610,14 @@
 5. A ruined throne room houses the restless spirit of the last king, who seeks vengeance for his betrayal.
 6. An ancient hourglass marks the time remaining before a forgotten portal opens again.
 7. At the bottom of a royal tomb, an undead warrior guards a sacred weapon he never wielded in life.
-8. An underground library holds ancient tomes of forgotten magic — but every book is cursed.
+8. An underground library holds ancient tomes of forgotten magic, but every book is cursed.
 9. An ancient monument covered in runes conceals a portal to a parallel plane.
 10. The ruins of a sacred city submerged in the desert emerge only after a sandstorm.
 11. A stone altar holds an ancient key granting access to a fortress hidden in the mountains.
-12. A golden statue depicts a forgotten ancient hero — and his soul is said to be imprisoned within.
+12. A golden statue depicts a forgotten ancient hero, and his soul is said to be imprisoned within.
 13. The shattered remains of a golem lie at the heart of an abandoned fortress, ready to be reassembled.
 14. A great portal carved into the rock leads to a sealed crypt, full of lethal traps.
-15. A sacred spring lies in the depths of a cave — it is said to be capable of raising the dead.
+15. A sacred spring lies in the depths of a cave, it is said to be capable of raising the dead.
 16. Ancient enchanted mirrors, hidden in a ruin, allow the viewer to see across time.
 17. Beneath the ruins of an ancient temple, a map carved onto a stone tablet marks the location of a legendary treasure.
 18. An ancient artifact hidden in a crypt is guarded by the spectres of millennial priests.
@@ -634,18 +634,18 @@
 4. An exotic venom makes those who ingest it allergic to magic, causing pain every time a spell is cast nearby.
 5. An ancestral curse causes those who suffer it to age each time they speak a specific word.
 6. Victims of an ancient malady see their own reflection hideously distorted, making them doubt their very identity.
-7. A magical plague provokes animal mutations in its victims — claws, fangs — that cause extreme pain.
+7. A magical plague provokes animal mutations in its victims, claws, fangs, that cause extreme pain.
 8. A curse makes those who bear it gradually forget their loved ones and their origins.
 9. A magical infection turns the blood to ice, making every wound extraordinarily dangerous.
-10. Whoever contracts a particular curse becomes invisible to others — but incapable of physically interacting with the world.
+10. Whoever contracts a particular curse becomes invisible to others, but incapable of physically interacting with the world.
 11. An arcane sickness causes magical symbols to appear on the skin, which slowly burn through the body.
 12. A mysterious plague makes every plant touched by its victims wither, draining them of vital energy.
 13. A curse makes the afflicted perceive their companions as demons or monsters.
-14. The disease of "eternal waking" holds its sufferers in a state of permanent semi-consciousness — they cannot sleep.
+14. The disease of "eternal waking" holds its sufferers in a state of permanent semi-consciousness, they cannot sleep.
 15. A corrupted spell causes roots to grow from the feet of its victims, slowly anchoring them to the ground.
 16. An unknown plague drains all physical strength, leaving victims permanently weak and fragile.
 17. The disease of "the double face" causes those who contract it to develop a second, malevolent personality.
-18. A malignant curse causes the victim to be followed at all times by their shadow — one that acts independently of them.
+18. A malignant curse causes the victim to be followed at all times by their shadow, one that acts independently of them.
 19. An invisible plague spreads only through dreams, infecting those who sleep near the afflicted.
 20. An ancient plague gradually transforms those it strikes into crystal.
 
@@ -711,14 +711,14 @@
 6. A pirate seizes a ship laden with rare spices and demands an astronomical ransom.
 7. A wealthy merchant is found dead and his entire spice warehouse vanishes during the night.
 8. A religious temple declares that a sacred spice has been defiled, triggering panic among the faithful.
-9. A group of mercenaries is hired to escort a spice shipment — and vanishes without a trace.
+9. A group of mercenaries is hired to escort a spice shipment, and vanishes without a trace.
 10. A great fire devastates a spice plantation, triggering an economic crisis.
 11. An entire spice caravan is cursed by a mysterious malediction.
 12. A rival merchant spreads false rumors that a spice causes illness, ruining a competitor's reputation.
 13. A prized spice turns to dust during transport, without explanation.
 14. A new merchant guild attempts to monopolize the spice trade, igniting a commercial war.
 15. Caravans transporting spices are attacked by mysterious desert raiders who seem invulnerable.
-16. A rare variety of spice becomes extremely fashionable — but no one can find it on the market anymore.
+16. A rare variety of spice becomes extremely fashionable, but no one can find it on the market anymore.
 17. A magical infection strikes spice crops, causing numerous plantations to fail.
 18. The spirits of the desert begin sabotaging spice caravan routes, blaming the merchants for desecrating an ancient tomb.
 19. A city-state blocks access to its trade routes, sending spice prices through the roof.
@@ -733,21 +733,21 @@
 3. An oneiric prophecy speaks of an immense shadow that will blot out the sun, bringing calamity.
 4. In sleep, a veiled figure whispers to the players to avoid a coastal city threatened by imminent disaster.
 5. A vision shows a bloody war between two great nations, with the players at the center of the conflict.
-6. A dream reveals that one of the players' companions is in truth a traitor — but the truth is more complex than it seems.
-7. During a night's rest, the players see an ancient sleeping dragon that is about to wake — but no one knows where it lies.
+6. A dream reveals that one of the players' companions is in truth a traitor, but the truth is more complex than it seems.
+7. During a night's rest, the players see an ancient sleeping dragon that is about to wake, but no one knows where it lies.
 8. A celestial figure appears in the players' dreams, warning them of a threat rising from the sea.
-9. In an oneiric prophecy, the players watch a sacred artifact fall into the wrong hands — but cannot discern who the culprit is.
+9. In an oneiric prophecy, the players watch a sacred artifact fall into the wrong hands, but cannot discern who the culprit is.
 10. A vision shows the players fighting a dark figure in an unknown place, but they cannot understand how they will get there.
 11. A dream shows a city hidden beneath the sea, full of forgotten treasures and ancient threats.
-12. An oneiric oracle shows a map leading to a secret tomb — but the map changes shape every time it is observed.
+12. An oneiric oracle shows a map leading to a secret tomb, but the map changes shape every time it is observed.
 13. A nocturnal vision shows the players aging rapidly as time flows in an unnatural manner around them.
 14. An ancient tree appears in the dreams, its branches reaching toward a distant land no one has ever seen.
 15. The players dream of being trapped in a crystal temple, pursued relentlessly by a mysterious enemy.
 16. A hooded figure appears in the dreams, offering the players a magical object in exchange for a mysterious task.
-17. In a vision, a falling star marks the location of a legendary relic — but no one knows where to search.
+17. In a vision, a falling star marks the location of a legendary relic, but no one knows where to search.
 18. An ancient spirit appears in the players' dreams, imploring help to break a millennium-old curse.
 19. A troubling dream reveals a series of unknown symbols, which keep appearing in various circumstances in the waking world.
-20. In an oneiric prophecy, the players witness a terrible battle between the forces of good and evil — and must choose a side.
+20. In an oneiric prophecy, the players witness a terrible battle between the forces of good and evil, and must choose a side.
 
 ---
 
@@ -762,16 +762,16 @@
 7. A shaman reveals an ancient secret about nature that the players can turn to their advantage.
 8. A druid accuses the players of disturbing a sacred site and challenges them to pass a trial to prove their innocence.
 9. A shaman offers the players a vision of the future but demands a personal sacrifice in return.
-10. A circle of druids performs a healing ritual on an ancient creature — but they need a rare ingredient that the players must find.
+10. A circle of druids performs a healing ritual on an ancient creature, but they need a rare ingredient that the players must find.
 11. A shaman is fleeing a group of witch hunters and asks the players for help in hiding.
 12. A mysterious druid offers the players a map leading to a sacred site, warning them of the dangerous trials that await.
-13. A shaman offers the players a blessing that will protect them from curses — but only for a limited period.
+13. A shaman offers the players a blessing that will protect them from curses, but only for a limited period.
 14. A druid seeks vengeance against a faction that has destroyed part of his sanctuary and asks the players to render justice.
 15. A shaman appears in the players' dreams, warning of an imminent natural disaster.
 16. A druid asks the players to restore balance to a forest by purifying a corrupted magical spring.
-17. A shaman offers the players the power to communicate with spirits — but only so long as they perform a ritual each day.
+17. A shaman offers the players the power to communicate with spirits, but only so long as they perform a ritual each day.
 18. A circle of druids is in conflict with a tribe over control of an ancient sacred tree and asks the players to intervene.
-19. A shaman reveals to the players that one of their number is cursed — and that only a dark rite can break it.
+19. A shaman reveals to the players that one of their number is cursed, and that only a dark rite can break it.
 20. A druid warns the players of an imminent catastrophe caused by the disharmony between the elements, and asks them to act.
 
 ---
@@ -785,9 +785,9 @@
 5. A long-duration spell rapidly ages whoever casts it, consuming them in mere moments.
 6. A powerful magical barrier collapses, unleashing a curse that begins to spread through the surrounding region.
 7. An ancient reanimation spell fails, transforming the dead into bloodthirsty monsters.
-8. Time distorts around a city because of a lost spell — people age and grow young again, out of control.
+8. Time distorts around a city because of a lost spell, people age and grow young again, out of control.
 9. An ancient magical portal activates and begins drawing objects, people, and animals into an unknown realm.
-10. An ancient enchanted statue comes to life — and turns against its own creators.
+10. An ancient enchanted statue comes to life, and turns against its own creators.
 11. A resurrection spell fails, creating an unbreakable bond between the soul of the dead and one of the players.
 12. The words of an ancient spell destroy the magical equilibrium of a region, unleashing natural catastrophes.
 13. A powerful magical amulet shatters, freeing a malevolent entity that had been sealed within.
@@ -828,7 +828,7 @@
 
 ### **Divine Responses to Sacred Rites**
 
-1. During a rain rite, a surge of storms floods the cultivated lands — a sign of divine wrath.
+1. During a rain rite, a surge of storms floods the cultivated lands, a sign of divine wrath.
 2. A temple collapses mysteriously during a purification ceremony, signaling a dark omen.
 3. An ancient sacred tree blooms out of season after a religious procession, bringing hope of abundance.
 4. The gods send a flock of rare birds above an altar, a sign of favor for a newly crowned sovereign.
@@ -836,18 +836,18 @@
 6. A priest is possessed by a divine spirit during a rite, prophesying a great political change.
 7. Lightning strikes the altar during an offering, devastating the surrounding city and leaving the faithful in terror.
 8. After a failed ritual, the earth around a sacred village cracks open, releasing toxic vapors that threaten the population.
-9. The waters of a sacred spring turn red during a ceremony — a presage of war and imminent bloodshed.
+9. The waters of a sacred spring turn red during a ceremony, a presage of war and imminent bloodshed.
 10. During a festival dedicated to the sea, an enormous sea creature emerges from the waters and assaults the coast.
 11. A young person chosen as oracle during a rite receives an apocalyptic vision that the gods have no intention of preventing.
 12. A series of famines strikes a region after a sacrifice to the earth spirits is interrupted.
-13. Shooting stars mark the beginning of a new era, according to the priests — but the population fears disaster.
+13. Shooting stars mark the beginning of a new era, according to the priests, but the population fears disaster.
 14. A deity manifests through a sacred animal that presents itself during a thanksgiving offering.
-15. The gods answer a prayer for healing by turning an entire city to stone — punishment for its inhabitants' sins.
+15. The gods answer a prayer for healing by turning an entire city to stone, punishment for its inhabitants' sins.
 16. During a rite for abundance, the waters of a sacred river run dry without warning, triggering panic among the faithful.
 17. The protective spirits of a sacred forest send menacing signs, warning of an imminent invasion.
-18. A priest announces that a curse has been broken — but the temple undergoes strange phenomena shortly after.
+18. A priest announces that a curse has been broken, but the temple undergoes strange phenomena shortly after.
 19. A new heretical cult receives a divine response from an ancient oracle, predicting the fall of the king.
-20. The gods answer a prayer for battlefield victory by sending a plague that decimates the enemy — but leaves behind traces of magical corruption.
+20. The gods answer a prayer for battlefield victory by sending a plague that decimates the enemy, but leaves behind traces of magical corruption.
 
 ---
 
@@ -856,11 +856,11 @@
 1. The spirits of the ancestors appear in a dream, warning the players not to trust an ally.
 2. A desecrated sacred site unleashes the fury of the spirits, who haunt the surrounding villages with apparitions and disasters.
 3. During a prayer at the tomb of a great hero, the spirit appears and challenges the players to prove their worth.
-4. The spirits reveal a forgotten ancient prophecy — but their vision is cryptic and difficult to interpret.
+4. The spirits reveal a forgotten ancient prophecy, but their vision is cryptic and difficult to interpret.
 5. A sacred offering is ignored by the spirits, who begin to curse the crops of a region.
 6. The spirits appear during a decisive battle, influencing the course of events with a mystical intervention.
 7. An ancient spirit manifests to protect a sacred relic, challenging anyone who seeks to steal it.
-8. The ancestors visit the group's members in dreams, indicating the location of an ancient treasure — but requiring tribute in return.
+8. The ancestors visit the group's members in dreams, indicating the location of an ancient treasure, but requiring tribute in return.
 9. The spirits of ancient sovereigns appear at the royal court, warning of an imminent betrayal.
 10. An ancestral spirit blesses the players for restoring the lost honor of its lineage.
 11. A disturbed burial rouses the warrior spirits, who begin to haunt the surrounding area.
@@ -878,7 +878,7 @@
 
 ### **Betrayals & Court Intrigues**
 
-1. A trusted counselor is accused of plotting a coup — but the evidence is thin, and perhaps fabricated.
+1. A trusted counselor is accused of plotting a coup, but the evidence is thin, and perhaps fabricated.
 2. A courtier vanishes mysteriously after discovering a dangerous secret about the sovereign.
 3. The captain of the royal guard is in truth a secret informant working for a rival nation.
 4. A member of the royal family seeks to poison the king to accelerate their own rise to the throne.
@@ -894,7 +894,7 @@
 14. A wealthy noble begins financing rebels to destabilize the court and gain greater political power.
 15. A religious faction within the court seeks to influence the king, pushing him toward a declaration of holy war.
 16. A sacred artifact is stolen from the royal palace, and accusations fly among the noble families.
-17. An old ally of the crown is arrested on charges of high treason — but it is suspected that he is merely a pawn in a larger game.
+17. An old ally of the crown is arrested on charges of high treason, but it is suspected that he is merely a pawn in a larger game.
 18. A military commander schemes to seize power, quietly organizing the troops for a coup.
 19. A court faction gathers supporters to depose the current sovereign in favor of an exiled pretender.
 20. A powerful court mage is discovered practicing forbidden rites, and it is feared that he has used magic to influence the king.
@@ -903,23 +903,23 @@
 
 ### **Exploration of Unknown Islands**
 
-1. A recently emerged island is covered with ancient ruins — but the locals say it is cursed.
+1. A recently emerged island is covered with ancient ruins, but the locals say it is cursed.
 2. An active volcano dominates an island, emitting strange vapors that seem to distort the surrounding reality.
 3. An unknown and hostile tribe attacks visitors with bronze weapons never seen before.
 4. Explorers find an abandoned city on the shores of an island, but everything seems to have been left in a rush.
-5. A vast underground labyrinth lies beneath the island — infested with mutant marine creatures.
+5. A vast underground labyrinth lies beneath the island, infested with mutant marine creatures.
 6. The inhabitants of a small island are unusually friendly, but seem to be hiding a dark secret.
-7. On a solitary island stands a spring said to cure any disease — guarded by a legendary beast.
+7. On a solitary island stands a spring said to cure any disease, guarded by a legendary beast.
 8. Explorers find on a beach an ancient ship run aground, its entire crew vanished without a trace.
 9. An island is covered with a forest of giant trees whose fruits carry potent alchemical properties.
 10. An island seems to be inhabited by a single mysterious figure who claims to be immortal.
 11. The ancestral spirits of a sacred island appear at night, guiding explorers toward a hidden ancient sanctuary.
-12. The ruins of an ancient submerged temple emerge periodically from the water — but only for a few hours before disappearing again.
+12. The ruins of an ancient submerged temple emerge periodically from the water, but only for a few hours before disappearing again.
 13. An island appears and vanishes from maps mysteriously, as though it drifts between dimensions.
 14. An unknown disease strikes anyone who sets foot on the island, and only the local shamans seem to possess the cure.
 15. Explorers discover an ancient ziggurat at the island's center, protected by lethal traps and spectral guardians.
 16. On an island covered in dense jungle, an isolated civilization worships a colossal sea serpent.
-17. An uninhabited island is crawling with giant creatures — the legacy of an ancient magical experiment.
+17. An uninhabited island is crawling with giant creatures, the legacy of an ancient magical experiment.
 18. The underground caves of an island conceal a crystal that emits a mystical light, drawing strange sea creatures.
 19. A mysterious chant from the island causes sailors to lose their bearings, ending in shipwreck on the rocks.
 20. An indigenous tribe greets the explorers as the prophesied saviors, but compels them to perform a ritual to avert a calamity.
@@ -933,7 +933,7 @@
 3. A powerful tribal chief is slain in a ritual duel, and his tribe demands revenge on a broad scale.
 4. Merchants crossing a tribe's territory are forced to choose sides, with consequences for future commercial relations.
 5. A marriage between two rival tribes ends in tragedy, reigniting old grudges and leading to raids in the border lands.
-6. The chiefs of a region's tribes organize a peace summit — only to be betrayed by an unknown assassin, reigniting the war.
+6. The chiefs of a region's tribes organize a peace summit, only to be betrayed by an unknown assassin, reigniting the war.
 7. A tribe is annihilated by a rival, but the spirits of the massacred ancestors return to exact vengeance, haunting the sacred territories.
 8. An ancient artifact, stolen during a raid between tribes, unleashes a curse on both factions.
 9. A great tribal gathering ends in armed confrontation, and no trade route is now safe.
@@ -945,7 +945,7 @@
 15. An unusual alliance between two rival tribes compels the players to mediate a truce with other factions.
 16. The elders of a tribe ask the players to recover a sacred object stolen by their rivals.
 17. Tribal rivalries cause the closure of a key mountain pass, isolating a city-state dependent on caravans.
-18. A group of mercenaries is hired by one tribe to eliminate the rival tribe's chiefs — but the mercenaries betray both sides.
+18. A group of mercenaries is hired by one tribe to eliminate the rival tribe's chiefs, but the mercenaries betray both sides.
 19. A nomadic tribe allies with foreign forces, causing the local factions to suspect betrayals and secret alliances.
 20. A tribe is pushed to the brink of extinction by a feud, but a prophecy says that only a human sacrifice can end the conflict.
 
@@ -955,11 +955,11 @@
 
 1. An imposing fortress is secretly resupplied through an underground passage unknown to the besiegers.
 2. The siege engines break down during a critical assault, forcing the besiegers into a strategic retreat.
-3. A traitor inside the fortress sabotages the water reserves — but is discovered before completing his plan.
+3. A traitor inside the fortress sabotages the water reserves, but is discovered before completing his plan.
 4. The besieged launch night attacks, catching the enemy troops sleeping and turning the tide of battle.
 5. A powerful siege weapon explodes accidentally, gravely damaging the attackers' front lines.
 6. A secret message is smuggled out by the besieged, calling for reinforcements from a rival nation now preparing to intervene.
-7. The besiegers find a hidden passage in the fortress — but it is infested with magical creatures defending the underground corridors.
+7. The besiegers find a hidden passage in the fortress, but it is infested with magical creatures defending the underground corridors.
 8. A powerful defensive spell activated by the besieged destroys part of the enemy war machines.
 9. The food stores inside the fortress are infested by parasites, causing hunger and disease among the defenders.
 10. A large-scale assault is launched during a storm, causing confusion and disorientation among both sides.
@@ -1003,14 +1003,14 @@
 
 ### **Encounters in the Markets of Marethar**
 
-1. A spice merchant proposes an unusually favorable deal — but there is a hidden catch.
+1. A spice merchant proposes an unusually favorable deal, but there is a hidden catch.
 2. A vendor of sacred relics displays a strange ancient mask that seems to react to the players' presence.
 3. A young journeyman craftsman asks the players for help exposing his master, who has sold defective weapons to a warlord.
 4. A masked noble is secretly purchasing a map of a lost trade route.
 5. A merchant corporation is expanding aggressively, sweeping small vendors off the market.
 6. A foreign ship just docked brings merchants from distant lands with goods never seen before.
 7. A trafficker in sacred art is on the run after selling a forged religious artifact to a local temple.
-8. A mysterious alchemist sells potions that promise health and longevity — but seem to carry unexpected side effects.
+8. A mysterious alchemist sells potions that promise health and longevity, but seem to carry unexpected side effects.
 9. A local bard desperately tries to sell a strange ancient scroll, claiming he wants to flee the city.
 10. A brawl erupts in the middle of the market when a thief tries to steal a rare magical crystal from a roving vendor's stall.
 11. An exotic animal merchant displays an unknown creature, claiming it comes from an uncharted island beyond the Marethar.
@@ -1018,7 +1018,7 @@
 13. An old sailor sells strange artifacts found during his travels to distant lands, each with its own dark history.
 14. A band of thieves infiltrates the market, silently robbing the stalls while a troupe of acrobats distracts the crowd.
 15. A spy from a rival city-state uses the market to exchange vital intelligence on trade routes with mercenaries.
-16. A merchant offers the players a rare magical amulet — but armed men are closing in, chasing him for an unpaid debt.
+16. A merchant offers the players a rare magical amulet, but armed men are closing in, chasing him for an unpaid debt.
 17. A caravan just arrived from the desert region of Aridonia brings strange enchanted goods, at an incredibly high price.
 18. An old beggar woman in the market tells stories of a city that vanished beneath the sea, offering a worn map in exchange for food.
 19. A group of priests argues furiously with a merchant accused of selling sacred talismans stolen from a temple.
@@ -1039,7 +1039,7 @@
 9. A ceremonial drum used to invoke ancestral spirits is protected by a group of hostile shamans in a remote swamp.
 10. An ancient jewel said to contain the soul of a princess of a lost kingdom is hidden among the ruins of a sunken palace.
 11. A helm forged in the fire of a dormant volcano lies in a cave guarded by a legendary fire dragon.
-12. A shattered sword — the weapon of a forgotten hero — is buried beneath a sacred stone in a remote valley.
+12. A shattered sword, the weapon of a forgotten hero, is buried beneath a sacred stone in a remote valley.
 13. A dagger steeped in magical venom lies in the ancient tomb of an assassin that no one has ever dared desecrate.
 14. A massive gold crown worn by the last king of a vanished civilization is embedded in an abandoned hilltop.
 15. A philosopher's stone forgotten by a mad alchemist, capable of transmuting any metal to gold, lies hidden in a submerged cave.
@@ -1053,26 +1053,26 @@
 
 ### **Encounters in the Marshes of Meshdad** *(extended)*
 
-1. A band of smugglers is hiding valuable goods in the murky waters — but they have gotten lost in the labyrinth of reeds.
+1. A band of smugglers is hiding valuable goods in the murky waters, but they have gotten lost in the labyrinth of reeds.
 2. A mysterious man in black approaches the players, offering secret information in exchange for a risky favor.
 3. A strange magical mist rises suddenly, confusing the travelers and extinguishing the light of their torches.
 4. A group of traveling merchants is stranded on a raft, assailed by amphibious creatures rising from the swamp floor.
 5. An ancient watchtower emerges from the water only at low tide, revealing mysterious symbols carved upon it.
-6. The remains of a sunken convoy lie among the mangroves — the bodies gone, strange tracks left in the mud.
-7. A local fisherman claims to have seen mysterious lights dancing above the water at night — but no one believes him.
+6. The remains of a sunken convoy lie among the mangroves, the bodies gone, strange tracks left in the mud.
+7. A local fisherman claims to have seen mysterious lights dancing above the water at night, but no one believes him.
 8. A hermit lives on a small island at the heart of the swamp and guards an ancient secret bound to forgotten magic.
 9. A ghost boat crosses the waters in silence, its skeletal oarsmen ready to strike anyone who dares approach.
 10. A marsh dragon with black scales terrorizes the villages on the swamp's banks, burning crops and draining resources.
 11. A circle of swamp shamans is immersed in a dark rite, summoning spirits from the murky waters.
-12. The players find a dense web of animal traps strewn along the swamp's edge — but there is no trace of the hunter.
+12. The players find a dense web of animal traps strewn along the swamp's edge, but there is no trace of the hunter.
 13. A gigantic water serpent attacks any vessel crossing the swamp, making them vanish without a trace.
-14. A mysterious submerged temple reappears as the waters recede — but its entrance is sealed by a forgotten enchantment.
+14. A mysterious submerged temple reappears as the waters recede, but its entrance is sealed by a forgotten enchantment.
 15. A group of thieves is trying to recover a stolen cargo hidden in a marshy location, but they have gotten lost and ask for help.
 16. A powerful swamp shaman warns the players not to disturb the dead that rest beneath the waters, on pain of the spirits' wrath.
 17. A herd of wild buffalo crosses the shallow waters of the swamp, creating chaos among the travelers.
-18. A young woman is spotted wandering through the waters — but she vanishes each time someone tries to approach.
+18. A young woman is spotted wandering through the waters, but she vanishes each time someone tries to approach.
 19. Strange chanting echoes among the swamp reeds, rising from a mysterious invisible choir.
-20. A group of semi-intelligent amphibious creatures offers the players an alliance — but only if they help rid the swamp of human invaders.
+20. A group of semi-intelligent amphibious creatures offers the players an alliance, but only if they help rid the swamp of human invaders.
 
 ---
 
@@ -1092,7 +1092,7 @@
 12. A legendary wolf of immense size begins hunting on the plains of Vallan, causing fear and panic among the local tribes.
 13. A millennial stone golem awakens in a remote valley, fiercely defending the ruins of a vanished city.
 14. An enormous kraken emerges from the waters during a storm, terrorizing fishermen and devastating the coasts of Thalassia.
-15. A pegasus appears suddenly before the players, bearing a divine message — but only for those who can earn its trust.
+15. A pegasus appears suddenly before the players, bearing a divine message, but only for those who can earn its trust.
 16. A multi-headed hydra erupts from an ancient swamp, devouring anyone who ventures too close to its domain.
 17. A minotaur emerges from an ancient underground labyrinth, demanding a human sacrifice to appease its fury.
 18. A fire giant is spotted on the slopes of a volcano, awakened by the whispers of an ancient prophecy.
@@ -1114,15 +1114,15 @@
 9. A substance meant to grant fire resistance instead turns the drinker into a living torch for several minutes.
 10. An alchemical powder intended to solidify liquid turns everything it touches to sand.
 11. A love philtre produces the opposite effect, provoking uncontrollable rage in whoever drinks it.
-12. A tonic for night vision works perfectly — but blinds the drinker to sunlight for the entire day.
+12. A tonic for night vision works perfectly, but blinds the drinker to sunlight for the entire day.
 13. A potion for breathing underwater proves defective and runs out in mid-dive, leaving the drinker in peril.
 14. An attempt to create a philosopher's stone produces a substance that attracts undead creatures to the region.
 15. A filter to enhance intelligence temporarily overloads the drinker's mind, sending them confused visions of the future.
 16. A potion to accelerate plant growth instead causes the drinker's own hair to grow uncontrollably.
 17. An attempt to forge a powerful alchemical weapon ends by enchanting surrounding objects, animating them.
 18. A poorly mixed alchemical venom explodes in a cloud of green smoke, randomly transforming nearby plants and animals.
-19. A compound to boost the drinker's physical capabilities makes them unstoppable for a brief period — then leaves them exhausted and powerless.
-20. A potion that promises immortality fails as intended — but halts the drinker's aging in a grotesque, deformed state.
+19. A compound to boost the drinker's physical capabilities makes them unstoppable for a brief period, then leaves them exhausted and powerless.
+20. A potion that promises immortality fails as intended, but halts the drinker's aging in a grotesque, deformed state.
 
 ---
 
@@ -1130,14 +1130,14 @@
 
 1. A normally solitary fire dragon approaches the villages, seemingly seeking refuge from humans for no apparent reason.
 2. A golem programmed to defend a tower abandons its post and begins digging mysteriously in the nearby forest.
-3. A unicorn appears in a village — but instead of avoiding humans, it seems to be searching for a newborn child.
+3. A unicorn appears in a village, but instead of avoiding humans, it seems to be searching for a newborn child.
 4. A water elemental becomes extremely aggressive during the full moon, attacking any creature that approaches a water source.
 5. A griffin that guards an ancient temple behaves with unusual friendliness and offers help to travelers, though no one understands why.
 6. A herd of centaurs has begun building mysterious stone circles in the hills, and no one knows their purpose.
 7. A basilisk that once terrorized the lands seems frightened by something and retreats into the deepest caves.
 8. A cyclops starts painting sacred symbols on the walls of his cavern, claiming to have received divine visions.
 9. A pegasus is spotted on a beach, never taking flight, watching the sea as though waiting for something.
-10. A manticore, instead of attacking, follows a group of explorers — appearing more curious than hostile.
+10. A manticore, instead of attacking, follows a group of explorers, appearing more curious than hostile.
 11. A kraken approaches the coasts, leaving ships and ports untouched, but digging trenches underwater as though searching for something.
 12. A werewolf, normally out of control on nights of the full moon, desperately tries to protect a village from other magical creatures.
 13. A siren, usually treacherous and lethal, reveals herself to be the keeper of a lost relic, but is undecided whether to trust humans.
@@ -1146,7 +1146,7 @@
 16. A giant sea creature beaches itself voluntarily, revealing on its back a strange ancient inscription.
 17. A pack of legendary wolves, known as lethal hunters, begins instead to protect an ancient monument in the wilderness.
 18. A sand dragon appears in the desert, excavating tunnels and unearthing ancient ruins hidden beneath the sand.
-19. A fire elemental entity manifests among the mountains, but burns nothing — behaving as a silent guide.
+19. A fire elemental entity manifests among the mountains, but burns nothing, behaving as a silent guide.
 20. A giant cavern serpent, usually territorial, leads a group of travelers out of a haunted cave without ever attacking them.
 
 ---
@@ -1172,4 +1172,4 @@
 17. A naval builders' guild has installed magical espionage devices aboard every ship built for the sovereign, monitoring every move.
 18. A secret association within a religious guild is channeling donations to finance an underground war between rival factions.
 19. A thieves' guild is scheming to rob the royal treasury during a religious ceremony, exploiting the chaos generated by a sacred rite.
-20. An order of assassins from a secret guild has been tasked with eliminating one of the most influential members of the city council — at the behest of a political rival.
+20. An order of assassins from a secret guild has been tasked with eliminating one of the most influential members of the city council, at the behest of a political rival.

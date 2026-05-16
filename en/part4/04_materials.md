@@ -4,12 +4,12 @@
 
 > *"Not all objects are useful. Some are inevitable."*
 
-Everything presented in Part III — legendary creatures, contested relics, marginal fragments, and unanswered questions — is not meant to be "inserted" into a story. These are **weights that shift the narrative balance**, elements that **change the shape of the world** the moment they are observed.
+Everything presented in Part III, legendary creatures, contested relics, marginal fragments, and unanswered questions, is not meant to be "inserted" into a story. These are **weights that shift the narrative balance**, elements that **change the shape of the world** the moment they are observed.
 
 ### Mythic Creatures
 
 These are not monsters to be fought. They are omens, dream-knots, consequences held in waiting.
-Those who encounter them rarely emerge victorious — but almost always emerge changed.
+Those who encounter them rarely emerge victorious, but almost always emerge changed.
 
 **Possible uses:**
 
@@ -52,7 +52,7 @@ One sentence too many. A document someone wished forgotten.
 ### Open Questions
 
 They do not need to be resolved. They need to be chosen.
-Every campaign may answer differently — and the answer changes Marethar.
+Every campaign may answer differently, and the answer changes Marethar.
 
 **Possible uses:**
 

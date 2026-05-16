@@ -1,4 +1,4 @@
-# 🜚 Part IV — Playing Marethar
+# 🜚 Part IV: Playing Marethar
 
 *Tensions That Demand Protagonists*
 

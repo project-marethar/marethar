@@ -5,20 +5,20 @@
 > *"A king without a crown can still command. But a people without relics has already lost the future."*
 > — An Aridonian proverb
 
-The objects that Marethar preserves — or forgets — are never merely what they appear to be. **Some are magical artifacts. Others, symbols. Others still, lies that became truth**. They are often lost. Other times they are hidden, denied, or transformed into political, religious, or philosophical instruments.
+The objects that Marethar preserves, or forgets, are never merely what they appear to be. **Some are magical artifacts. Others, symbols. Others still, lies that became truth**. They are often lost. Other times they are hidden, denied, or transformed into political, religious, or philosophical instruments.
 
 ### The Crown of Shahin
 
 **Origin**: Aridonia
 **Function**: Symbol of spiritual guidance and oath of peace
-**Rumours**: It is said that whoever wears it dreams of future wars every night — but cannot prevent them. Some tribes believe the crown speaks, but only to those who have lost everything.
+**Rumours**: It is said that whoever wears it dreams of future wars every night, but cannot prevent them. Some tribes believe the crown speaks, but only to those who have lost everything.
 **Status**: Kept at the Sanctuary of Shahin, though some maintain the current crown is a replica.
 
 ### The Sword of Ser Athelstan
 
 **Origin**: Ashania
 **Function**: Sacred weapon, gifted by the druids of Dimilalica
-**Rumours**: It cannot strike the same enemy twice — if it does, the blow falls on the bearer instead. Some insist the sword carries a fragment of arboreal spirit.
+**Rumours**: It cannot strike the same enemy twice; if it does, the blow falls on the bearer instead. Some insist the sword carries a fragment of arboreal spirit.
 
 ### The Flame of Ralertis
 
@@ -43,7 +43,7 @@ The objects that Marethar preserves — or forgets — are never merely what the
 ### The Wanderer's Compass
 
 **Origin**: Dajilia
-**Function**: It does not point north — it points toward what the heart desires most.
+**Function**: It does not point north: it points toward what the heart desires most.
 **Rumours**: They say whoever follows it without hesitation always arrives… but not where they expected. Some use it to test the truth of their own longing.
 **Status**: Appeared in at least seven markets, each time with a new owner and a new legend.
 

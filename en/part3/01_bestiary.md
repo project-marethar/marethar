@@ -31,7 +31,7 @@ They sing among the rocks and lure ships. They do not always kill. Some save. So
 
 Walking flames, incarnations of fury and buried secrets. Some tribes venerate them as messengers of Shahin; others hunt them. No one has ever counted the same Ifrit's shape twice.
 
-> **Game potential**: an Ifrit follows the characters, but burns only what they carry — never what they touch.
+> **Game potential**: an Ifrit follows the characters, but burns only what they carry, never what they touch.
 >
 
 #### **Roc of Marethar**
@@ -45,7 +45,7 @@ A giant predatory bird. They say it darkens the sun with a single wingbeat and f
 
 #### **Ice Dragon**
 
-It slept. Now it does not. Some say it breathes no fire — it freezes thoughts. It appears only on peaks no one scales anymore. Its shadow falls without making a sound.
+It slept. Now it does not. Some say it breathes no fire: it freezes thoughts. It appears only on peaks no one scales anymore. Its shadow falls without making a sound.
 
 > **Game potential**: the spirits of dead climbers serve it as a silent oracle.
 >

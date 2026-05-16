@@ -42,7 +42,7 @@ Faiths coexist with skepticism, but **no one lives without a rite**. The gods sp
 **Putting it in play:**
 
 * A sacred relic is denounced as a forgery.
-* A new prophet speaks words everyone recognizes — but from the wrong mouth.
+* A new prophet speaks words everyone recognizes, but from the wrong mouth.
 * A temple stops working. But it continues to receive offerings.
 
 ### Family

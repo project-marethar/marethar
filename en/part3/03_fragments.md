@@ -5,13 +5,13 @@
 > *"Not everything that is inscribed is true. But everything that endures through time has something to say."*
 > — A broken epigraph, recovered from the sunken temple of Rhidar
 
-#### Unsent Letter — found in the jacket of a Linian officer
+#### Unsent Letter: found in the jacket of a Linian officer
 
 *Dated "four days before the invasion of the Murith Pass"*
 
 > **My dear Vitellius,**
 >
-> I write from a hill that will likely be ours by tomorrow — or reduced to ash.
+> I write from a hill that will likely be ours by tomorrow, or reduced to ash.
 > Our engineers have finished their surveys: the cannons will be positioned before dawn.
 > We have received no explicit orders, but the general's remarks speak plainly: they mean to advance at any cost.
 >
@@ -42,7 +42,7 @@
 > *"The third formula can invert the voice of whoever lies.
 > Do not use it in the presence of the Senate."*
 
-#### Unofficial Minutes — Artisans' Brotherhood of Vallan
+#### Unofficial Minutes: Artisans' Brotherhood of Vallan
 
 *Confidential record, not authenticated by the Council of Hands*
 
@@ -80,7 +80,7 @@
 > the sand forgot the name of the shadow.
 > Thus began the long march of the pulseless."*
 
-#### Informal Interrogation — transcribed by an agent of the Black Hand
+#### Informal Interrogation: transcribed by an agent of the Black Hand
 
 *Document obtained anonymously; provenance: Meshdad*
 

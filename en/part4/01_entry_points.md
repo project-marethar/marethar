@@ -4,7 +4,7 @@
 
 > *"Marethar never begins in the same place. Sometimes it's a deal, sometimes a corpse, sometimes a map no one ever drew."*
 
-Every entry into Marethar is a declaration. There are no tutorials, no neutral openings. What you choose to see first — and who you choose to be when you see it — determines the direction in which the world will bend.
+Every entry into Marethar is a declaration. There are no tutorials, no neutral openings. What you choose to see first, and who you choose to be when you see it, determines the direction in which the world will bend.
 Here are four **entry structures**, each suited to long campaigns or self-contained sessions, each capable of showing Marethar in a different light.
 
 ### Diplomatic or Political Campaign
@@ -44,7 +44,7 @@ Here are four **entry structures**, each suited to long campaigns or self-contai
 **Opening questions:**
 
 * Why is this thing being sought now? Who first spoke of it?
-* What was concealed — and by whom?
+* What was concealed, and by whom?
 * What happens if the truth is actually found?
 
 **Suggested tones:** metaphysical horror, moral ambiguity, faith that fractures.

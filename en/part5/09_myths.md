@@ -1,6 +1,6 @@
 ## 🜃 Myths and Legends
 
-This chapter gathers the myths, legends, and folk tales that form the living core of belief and worldview across the cultures of Marethar. These stories pass from generation to generation, shaping the traditions and identities of peoples who carry them the way others carry weapons — as something that protects.
+This chapter gathers the myths, legends, and folk tales that form the living core of belief and worldview across the cultures of Marethar. These stories pass from generation to generation, shaping the traditions and identities of peoples who carry them the way others carry weapons, as something that protects.
 
 ---
 

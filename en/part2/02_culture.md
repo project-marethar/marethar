@@ -149,7 +149,7 @@ The Orethians are a mountain civilization, born around mining, metallurgy, and m
 
 #### Origin and Cultural Profile
 
-Descended from coastal and island peoples, the Thalassians live at the heart of currents and maritime trade. Their culture is founded on **practical collaboration, port efficiency, and the protection of the collective**, with a strong devotion to Thalaran, the Spirit of the Sea. Thalassian ports are open but carefully watched, and cities organized as networks rather than centers.
+Descended from coastal and island peoples, the Thalassians live amid sea currents and maritime trade. Their culture is founded on **practical collaboration, port efficiency, and the protection of the collective**, with a strong devotion to Thalaran, the Spirit of the Sea. Thalassian ports are open but carefully watched, and cities organized as networks rather than centers.
 
 #### Identity Tags
 
