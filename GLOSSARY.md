@@ -222,3 +222,15 @@ When a term is added or revised, update this file and note the change in the rel
 These alchemical symbols appear as section markers. Do not translate or remove.
 
 `🜍` `🜚` `🜄` `🜨` `🝰` `🝣` `🝑` `🜎` `🝗` `🜦` `🝒` `🜩`
+
+---
+
+## Unverified / TO VERIFY (found in en/part1/)
+
+| Term | Found in | Notes |
+|------|----------|-------|
+| Tree Sect | 03_seeds.md | Colloquial name for Sect of Shahin? Possibly "Setta dell'Albero" in Italian — TO VERIFY |
+| Dor | 05_magic.md | Named river/deity; referenced as "breath of Dor" in Rainbow Serpent entry — TO VERIFY |
+| Desert of Suleiman | 05_magic.md | Named desert not on any official map; "no map can fix it twice" — TO VERIFY |
+| Lurocedina | 04_power.md | Location where an epigraph was carved on a statue fragment — TO VERIFY |
+| Aurel Forest | 05_magic.md | Site of ceremonial clearings for seasonal rites — TO VERIFY |

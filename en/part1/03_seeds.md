@@ -6,9 +6,9 @@
 
 ### **The Lion's Oath**
 
-**Location**: Desert of Qadmath
+**Location**: [[Geography|Desert of Qadmath]]
 **Context**: The appointment of a new chieftain of one of the central Aridonian tribes is imminent. The most favored candidate is born of an honored lineage.
-**Rupture**: A rumor spreads: the young man carries Rashian blood. Some wish to halt the appointment; others see in him a bridge toward peace.
+**Rupture**: A rumor spreads: the young man carries [[Cultures of Marethar|Rashian]] blood. Some wish to halt the appointment; others see in him a bridge toward peace.
 
 **How to Begin Immediately**:
 
@@ -19,9 +19,9 @@
 
 ### **The Map of the Broken Line**
 
-**Location**: Central Marethar, Lysandrian sea lanes
+**Location**: Central Marethar, [[Cultures of Marethar|Lysandrian]] sea lanes
 **Context**: A navigator dies, leaving behind an incomplete map. It indicates a maritime route that "should not exist" — through submerged reefs and islands absent from all official charts.
-**Rupture**: Other merchants want the map, the Naval Guild considers it dangerous, and certain priests claim the route "is cursed."
+**Rupture**: Other merchants want the map, the [[Organizations|Naval Guild]] considers it dangerous, and certain priests claim the route "is cursed."
 **How to Begin Immediately**:
 
 * The PCs are hired as crew for the expedition.
@@ -31,9 +31,9 @@
 
 ### **Fire on the Forge**
 
-**Location**: Kingdom of Vallan, mining regions
+**Location**: [[Nations|Kingdom of Vallan]], mining regions
 **Context**: A new metal is discovered: light, resonant, difficult to smelt. The most experienced artisans speak of "answers in the alloy."
-**Rupture**: The Artisans' Brotherhood bans the working of the metal. Some call it "soul-metal"; others call it "impure metal."
+**Rupture**: The [[Organizations|Artisans' Brotherhood of Vallan|Artisans' Brotherhood]] bans the working of the metal. Some call it "soul-metal"; others call it "impure metal."
 **How to Begin Immediately**:
 
 * A PC is an apprentice and receives a fragment.
@@ -43,8 +43,8 @@
 
 ### **The Grain Treaty**
 
-**Location**: Republic of Premia / Diarchy of Ashania
-**Context**: The cultivated plains of Preiacoria are struck by famine. The harvest has been lost and the central granary burned under ambiguous circumstances.
+**Location**: [[Nations|Republic of Premia]] / [[Nations|Diarchy of Ashania]]
+**Context**: The cultivated plains of [[Geography|Preiacoria]] are struck by famine. The harvest has been lost and the central granary burned under ambiguous circumstances.
 **Rupture**: Ashania offers to send food stores, but only in exchange for the right to build a temple of the solar cult in the heart of the republic.
 **How to Begin Immediately**:
 
@@ -55,9 +55,9 @@
 
 ### **The Light on the Lake**
 
-**Location**: Rhithian League, northern islands
+**Location**: [[Nations|Rhithian League]], northern islands
 **Context**: Each evening, for a few moments, a body of water shines with an iridescent light that no one can explain.
-**Rupture**: It is said to be the cyclical manifestation of a sunken city. The Naval Guild wants to forbid access to the lake on "grounds of safety."
+**Rupture**: It is said to be the cyclical manifestation of a sunken city. The [[Organizations|Naval Guild]] wants to forbid access to the lake on "grounds of safety."
 **How to Begin Immediately**:
 
 * The PCs are cartographers tasked with surveying the phenomenon.
@@ -67,9 +67,9 @@
 
 ### **The Silence of Shahin**
 
-**Location**: Aridonia
+**Location**: [[Geography|Aridonia]]
 **Context**: The Tree Sect — one of the oldest cults — has abruptly ceased every public rite, every word, every song.
-**Rupture**: The priests remain silent. It is said that Shahin has fallen silent to punish a collective sin… or perhaps to reveal something.
+**Rupture**: The priests remain silent. It is said that [[Religions and Beliefs|Shahin]] has fallen silent to punish a collective sin… or perhaps to reveal something.
 **How to Begin Immediately**:
 
 * The PCs are sent by a chieftain to demand explanation.
@@ -79,7 +79,7 @@
 
 ### **The Serpent and the Wheel**
 
-**Location**: Rashian Empire
+**Location**: [[Nations|Rashian Empire]]
 **Context**: In the poor quarters, a clandestine cult spreads that venerates the symbol of a serpent coiled around a wheel.
 **Rupture**: That symbol reappears on ancient tombs and in the dreams of many. The nobles wish to suppress the cult, but some are beginning to wear its mark.
 **How to Begin Immediately**:
@@ -91,7 +91,7 @@
 
 ### **The Oath of Linia**
 
-**Location**: Empire of Linia
+**Location**: [[Nations|Empire of Linia]]
 **Context**: A senator proposes the abolition of noble privileges.
 **Rupture**: Three of his children vanish the same night. The nobles deny any involvement… but the symbols left at the scene indicate a ritual vengeance.
 **How to Begin Immediately**:
@@ -103,7 +103,7 @@
 
 ### **The Water Oath**
 
-**Location**: Empire of Doria / Naharim
+**Location**: [[Nations|Empire of Doria]] / [[Geography|Naharim]]
 **Context**: The Dorian River has changed course, devastating fields and sacred temples.
 **Rupture**: Some say it is divine punishment. Others suspect engineering sabotage. Meanwhile, a tributary begins to sing.
 **How to Begin Immediately**:
@@ -115,7 +115,7 @@
 
 ### **The Salt Fever**
 
-**Location**: Hamania
+**Location**: [[Nations|Hamania]]
 **Context**: The salt workers begin to suffer a delirious fever.
 **Rupture**: The afflicted tell of a creature made of salt that walks among the dunes and calls them by name.
 **How to Begin Immediately**:
@@ -127,7 +127,7 @@
 
 ### **The Sixth Gate of Allasia**
 
-**Location**: City-State of Allasia
+**Location**: [[Nations|City-State of Allasia]]
 **Context**: After an earthquake, an ancient gate bricked up for centuries reopens in the city walls.
 **Rupture**: No one remembers its origin. Some say it "leads nowhere, but changes those who pass through it."
 **How to Begin Immediately**:
@@ -139,7 +139,7 @@
 
 ### **Copper and Sand**
 
-**Location**: Desert of Qadmath, Aridonia
+**Location**: [[Geography|Desert of Qadmath]], [[Geography|Aridonia]]
 **Context**: A caravan vanishes. Weeks later, a guard returns — covered in molten copper, mute.
 **Rupture**: The copper appears alive. The sand around her no longer holds footprints.
 **How to Begin Immediately**:

@@ -18,15 +18,60 @@ book:
     - en/part1/05_magic.md
     - en/part2/00_cover.md
     - en/part2/01_chronology.md
+    # Cultures
     - en/part2/02_culture.md
+    - en/cultures/aridonians.md
+    - en/cultures/aurelians.md
+    - en/cultures/lysandrians.md
+    - en/cultures/orethians.md
+    - en/cultures/thalassians.md
+    - en/cultures/naharim.md
+    # Religions
     - en/part2/03_religions.md
+    - en/religions/sect-of-shahin.md
+    - en/religions/faith-of-shemshahva.md
+    - en/religions/cult-of-carthara.md
+    - en/religions/golat-tradition.md
+    - en/religions/gods-of-ralertis.md
+    - en/religions/spirits-of-thalaran.md
+    - en/religions/druids-of-dimilalica.md
+    - en/religions/marethan-atheism.md
+    - en/religions/faith-of-pulbium.md
+    - en/religions/faith-of-tudeshkhast.md
+    - en/religions/sect-of-the-victory-bull.md
+    - en/religions/heresies-and-syncretisms.md
+    - en/religions/what-is-true.md
+    # Geography & society
     - en/part2/04_geography.md
+    # Nations
     - en/part2/05_nations.md
+    - en/nations/republic-of-premia.md
+    - en/nations/diarchy-of-ashania.md
+    - en/nations/empire-of-linia.md
+    - en/nations/republic-of-meshdad.md
+    - en/nations/grand-duchy-of-hamania.md
+    - en/nations/city-state-of-allasia.md
+    - en/nations/rashian-empire.md
+    - en/nations/kingdom-of-vallan.md
+    - en/nations/empire-of-doria.md
+    - en/nations/principality-of-dajilia.md
+    - en/nations/rhithian-league.md
+    - en/nations/nations-relations.md
     - en/part2/06_organizations.md
     - en/part2/07_daily_life.md
     - en/part3/00_cover.md
     - en/part3/01_bestiary.md
+    # Relics
     - en/part3/02_relics.md
+    - en/relics/the-crown-of-shahin.md
+    - en/relics/the-sword-of-ser-athelstan.md
+    - en/relics/the-flame-of-ralertis.md
+    - en/relics/the-mirror-of-carthara.md
+    - en/relics/the-amulet-of-shahin.md
+    - en/relics/the-wanderers-compass.md
+    - en/relics/the-book-of-the-second-life.md
+    - en/relics/the-lost-imperial-seal.md
+    - en/relics/relics-how-to-use.md
     - en/part3/03_fragments.md
     - en/part3/04_questions.md
     - en/part4/00_cover.md
@@ -35,10 +80,8 @@ book:
     - en/part4/03_roles.md
     - en/part4/04_materials.md
     - en/part4/05_adventures.md
+    # Part 5 — Extended lore (non-entity files)
     - en/part5/00_cover.md
-    - en/part5/01_culture.md
-    - en/part5/02_nations.md
-    - en/part5/03_religions.md
     - en/part5/04_flora_fauna.md
     - en/part5/05_society.md
     - en/part5/06_economy.md

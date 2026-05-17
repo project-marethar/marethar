@@ -12,10 +12,10 @@ In many regions of Marethar, religion **is not separate from political administr
 
 #### Forms of Religious Influence
 
-* In Aridonia, the **Sect of Shahin** establishes rites of passage, calendars, and in many cases ratifies tribal appointments.
-* In Vallan and Orethia, the **shamanic faiths of the ancestors** influence access to military power and the validation of enterprises.
-* In Linia, the **Faith of the Gods of Ralertis** supports the Senate in symbolic and patrimonial matters, but without direct executive power.
-* In Thalassia, animistic faiths such as the **cult of Thalaran** govern merchant behavior, especially at sea.
+* In [[Geography|Aridonia]], the **[[Religions and Beliefs|Sect of Shahin]]** establishes rites of passage, calendars, and in many cases ratifies tribal appointments.
+* In [[Nations|Vallan]] and [[Geography|Orethia]], the **shamanic faiths of the ancestors** influence access to military power and the validation of enterprises.
+* In [[Nations|Linia]], the **[[Religions and Beliefs|Faith of the Gods of Ralertis]]** supports the Senate in symbolic and patrimonial matters, but without direct executive power.
+* In [[Geography|Thalassia]], animistic faiths such as the **cult of [[Religions and Beliefs|Thalaran]]** govern merchant behavior, especially at sea.
 
 #### Typical Conflicts
 
@@ -31,17 +31,17 @@ In Marethar, merchants' and artisans' guilds are not simple economic consortia. 
 
 #### Relevant Examples
 
-* The **Merchants' Guild of Meshdad** controls the spice network, sets official prices, and mediates between cities in commercial war.
-* The **Naval Builders' Corporation of Lysandria** defines who may launch ships, imposing extrajudicial sanctions as well.
-* The **Artisans' Brotherhood of Vallan** has the power to block the use of unapproved materials, as occurred with "resonant silver."
+* The **[[Organizations|Merchants' Guild of Meshdad]]** controls the spice network, sets official prices, and mediates between cities in commercial war.
+* The **[[Organizations|Naval Builders' Corporation of Lysandria]]** defines who may launch ships, imposing extrajudicial sanctions as well.
+* The **[[Organizations|Artisans' Brotherhood of Vallan]]** has the power to block the use of unapproved materials, as occurred with "resonant silver."
 
 Many guilds impose **initiation rites, oaths, and symbols of membership**, often unknown to outsiders. Their power is **cross-state**, and cities that try to curtail them often see economic crises or prolonged technical strikes arise.
 
 #### Spiritual and Magical Orders
 
-* **Religious orders** (such as the Druidic Orders of Dimilalica or the Shamans of Shemshahva) often perform functions parallel to those of academies.
-* Some **magical orders** (e.g., the Order of Mages of Thalassia) impose codes of magical conduct and maintain registries of artifacts and practitioners.
-* **Secret societies** (e.g., the Black Hand or the Brotherhood of Rashian Assassins) operate as occult powers, often linked to nobility or merchants.
+* **Religious orders** (such as the [[Religions and Beliefs|Druidic Orders of Dimilalica]] or the Shamans of [[Religions and Beliefs|Shemshahva]]) often perform functions parallel to those of academies.
+* Some **magical orders** (e.g., the [[Organizations|Order of Mages of Thalassia]]) impose codes of magical conduct and maintain registries of artifacts and practitioners.
+* **Secret societies** (e.g., the [[Organizations|Black Hand]] or the [[Organizations|Brotherhood of Rashian Assassins]]) operate as occult powers, often linked to nobility or merchants.
 
 > *Entry censored from the registers of Fahya:* "At the Council of Copper, it was an alchemist — not a general — who dictated the terms of the treaty."
 
@@ -51,9 +51,9 @@ Marethar is a continent where **the transmission of knowledge is not uniform**. 
 
 #### Examples and Tensions
 
-* In Premia, the **College of Philosophers of Preiacoria** imposes linguistic and interpretive standards for historical texts.
-* In Fahya, the **Magical University** regulates who may practice and teach magic — and which formulae are forbidden.
-* In Aridonia and Naharim, **legends are transmitted in poetic form**, often with contradictory local variants.
+* In [[Nations|Premia]], the **[[Organizations|College of Philosophers of Preiacoria]]** imposes linguistic and interpretive standards for historical texts.
+* In [[Geography|Fahya]], the **[[Organizations|Magical University of Fahya|Magical University]]** regulates who may practice and teach magic — and which formulae are forbidden.
+* In [[Geography|Aridonia]] and [[Geography|Naharim]], **legends are transmitted in poetic form**, often with contradictory local variants.
 
 #### Recurring Themes
 

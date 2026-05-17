@@ -1,6 +1,6 @@
 ## 🜍 Letter to the Cartographers of the East
 
-*Annotated transcription of the prologue to the "Letter to the Cartographers of the East," written by the philosopher Lysaur of Premia*
+*Annotated transcription of the prologue to the "Letter to the Cartographers of the East," written by the philosopher [[Notable Characters|Lysaur of Premia]]*
 
 > *«There is nothing in Marethar that has not already been discovered. But every discovery is a well-documented misunderstanding.»*
 > — Lysaur of Premia, dissident philosopher
@@ -11,7 +11,7 @@ if you have come to read these lines, you are likely on the verge of setting foo
 
 Marethar is our center and our mirror. An inner sea, yes — but also a symbolic place where the desires and obsessions of all the peoples who look upon it are reflected. Its shores are studded with proud city-states, tentacled empires, and deserts that speak the language of ancestors. No shore is neutral. No ship sails for trade alone.
 
-Around this sea stretches an ancient continent, whose names shift with the language in which they are pronounced, and whose borders are drawn in ink or blood. The steppes of Aridonia, the river valleys of Naharim, the mountain fortresses of Orethia, the coastal colonies of Thalassia: each region has carved its own way of living, of praying, of fighting, and above all of remembering.
+Around this sea stretches an ancient continent, whose names shift with the language in which they are pronounced, and whose borders are drawn in ink or blood. The steppes of [[Geography|Aridonia]], the river valleys of [[Geography|Naharim]], the mountain fortresses of [[Geography|Orethia]], the coastal colonies of [[Geography|Thalassia]]: each region has carved its own way of living, of praying, of fighting, and above all of remembering.
 
 ### On This World
 
@@ -26,7 +26,7 @@ Knowledge travels aboard caravels and pack horses, but also in the form of songs
 
 ### On Those Who Inhabit It
 
-The peoples of Marethar are not exotic folk. They are us. Or rather, each of us carries at least one of them within: the Lysandrian merchant who swears only by profit; the Orethian soldier who never bows his head; the Aridonian priestess who reads the desert wind. Each has their own morality, their own code, their own god — and if they have none, they build one.
+The peoples of Marethar are not exotic folk. They are us. Or rather, each of us carries at least one of them within: the [[Cultures of Marethar|Lysandrian]] merchant who swears only by profit; the [[Cultures of Marethar|Orethian]] soldier who never bows his head; the [[Cultures of Marethar|Aridonian]] priestess who reads the desert wind. Each has their own morality, their own code, their own god — and if they have none, they build one.
 
 The differences are not merely external. Languages shift form as bodies do; calendars follow different rhythms; sacred colors do not align. A flower offered as a sign of peace in one culture may be an insult in another. A festival may be sacred in one valley and forbidden two hills away.
 
