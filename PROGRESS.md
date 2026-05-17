@@ -44,12 +44,12 @@ Status legend: `[ ]` pending · `[~]` in progress · `[x]` complete · `[R]` nee
 
 | File | Title | Status |
 |------|-------|--------|
-| `cultures/aridonians.md` | Aridonians | `[x]` |
-| `cultures/aurelians.md` | Aurelians | `[x]` |
-| `cultures/lysandrians.md` | Lysandrians | `[x]` |
-| `cultures/orethians.md` | Orethians | `[x]` |
-| `cultures/thalassians.md` | Thalassians | `[x]` |
-| `cultures/naharim.md` | Naharim | `[x]` |
+| `part2/cultures/aridonians.md` | Aridonians | `[x]` |
+| `part2/cultures/aurelians.md` | Aurelians | `[x]` |
+| `part2/cultures/lysandrians.md` | Lysandrians | `[x]` |
+| `part2/cultures/orethians.md` | Orethians | `[x]` |
+| `part2/cultures/thalassians.md` | Thalassians | `[x]` |
+| `part2/cultures/naharim.md` | Naharim | `[x]` |
 
 ---
 
@@ -57,19 +57,19 @@ Status legend: `[ ]` pending · `[~]` in progress · `[x]` complete · `[R]` nee
 
 | File | Title | Status |
 |------|-------|--------|
-| `religions/sect-of-shahin.md` | Sect of Shahin | `[x]` |
-| `religions/faith-of-shemshahva.md` | Faith of Shemshahva | `[x]` |
-| `religions/cult-of-carthara.md` | Cult of Carthara | `[x]` |
-| `religions/golat-tradition.md` | Golat Tradition | `[x]` |
-| `religions/gods-of-ralertis.md` | Gods of Ralertis | `[x]` |
-| `religions/spirits-of-thalaran.md` | Spirits of Thalaran | `[x]` |
-| `religions/druids-of-dimilalica.md` | Druidic Orders of Dimilalica | `[x]` |
-| `religions/marethan-atheism.md` | Marethan Atheism | `[x]` |
-| `religions/faith-of-pulbium.md` | Faith of Pulbium | `[x]` |
-| `religions/faith-of-tudeshkhast.md` | Faith of Tudeshkhast | `[x]` |
-| `religions/sect-of-the-victory-bull.md` | Sect of the Victory Bull | `[x]` |
-| `religions/heresies-and-syncretisms.md` | Heresies, Syncretisms, Alternative Currents | `[x]` |
-| `religions/what-is-true.md` | What Is True, and for Whom? | `[x]` |
+| `part2/religions/sect-of-shahin.md` | Sect of Shahin | `[x]` |
+| `part2/religions/faith-of-shemshahva.md` | Faith of Shemshahva | `[x]` |
+| `part2/religions/cult-of-carthara.md` | Cult of Carthara | `[x]` |
+| `part2/religions/golat-tradition.md` | Golat Tradition | `[x]` |
+| `part2/religions/gods-of-ralertis.md` | Gods of Ralertis | `[x]` |
+| `part2/religions/spirits-of-thalaran.md` | Spirits of Thalaran | `[x]` |
+| `part2/religions/druids-of-dimilalica.md` | Druidic Orders of Dimilalica | `[x]` |
+| `part2/religions/marethan-atheism.md` | Marethan Atheism | `[x]` |
+| `part2/religions/faith-of-pulbium.md` | Faith of Pulbium | `[x]` |
+| `part2/religions/faith-of-tudeshkhast.md` | Faith of Tudeshkhast | `[x]` |
+| `part2/religions/sect-of-the-victory-bull.md` | Sect of the Victory Bull | `[x]` |
+| `part2/religions/heresies-and-syncretisms.md` | Heresies, Syncretisms, Alternative Currents | `[x]` |
+| `part2/religions/what-is-true.md` | What Is True, and for Whom? | `[x]` |
 
 ---
 
@@ -77,18 +77,18 @@ Status legend: `[ ]` pending · `[~]` in progress · `[x]` complete · `[R]` nee
 
 | File | Title | Status |
 |------|-------|--------|
-| `nations/republic-of-premia.md` | Republic of Premia | `[x]` |
-| `nations/diarchy-of-ashania.md` | Diarchy of Ashania | `[x]` |
-| `nations/empire-of-linia.md` | Empire of Linia | `[x]` |
-| `nations/republic-of-meshdad.md` | Republic of Meshdad | `[x]` |
-| `nations/grand-duchy-of-hamania.md` | Grand Duchy of Hamania | `[x]` |
-| `nations/city-state-of-allasia.md` | City-State of Allasia | `[x]` |
-| `nations/rashian-empire.md` | Rashian Empire | `[x]` |
-| `nations/kingdom-of-vallan.md` | Kingdom of Vallan | `[x]` |
-| `nations/empire-of-doria.md` | Empire of Doria | `[x]` |
-| `nations/principality-of-dajilia.md` | Principality of Dajilia | `[x]` |
-| `nations/rhithian-league.md` | Rhithian League | `[x]` |
-| `nations/nations-relations.md` | Nations Relations Matrix | `[x]` |
+| `part2/nations/republic-of-premia.md` | Republic of Premia | `[x]` |
+| `part2/nations/diarchy-of-ashania.md` | Diarchy of Ashania | `[x]` |
+| `part2/nations/empire-of-linia.md` | Empire of Linia | `[x]` |
+| `part2/nations/republic-of-meshdad.md` | Republic of Meshdad | `[x]` |
+| `part2/nations/grand-duchy-of-hamania.md` | Grand Duchy of Hamania | `[x]` |
+| `part2/nations/city-state-of-allasia.md` | City-State of Allasia | `[x]` |
+| `part2/nations/rashian-empire.md` | Rashian Empire | `[x]` |
+| `part2/nations/kingdom-of-vallan.md` | Kingdom of Vallan | `[x]` |
+| `part2/nations/empire-of-doria.md` | Empire of Doria | `[x]` |
+| `part2/nations/principality-of-dajilia.md` | Principality of Dajilia | `[x]` |
+| `part2/nations/rhithian-league.md` | Rhithian League | `[x]` |
+| `part2/nations/nations-relations.md` | Nations Relations Matrix | `[x]` |
 
 ---
 
@@ -108,15 +108,15 @@ Status legend: `[ ]` pending · `[~]` in progress · `[x]` complete · `[R]` nee
 
 | File | Title | Status |
 |------|-------|--------|
-| `relics/the-crown-of-shahin.md` | The Crown of Shahin | `[x]` |
-| `relics/the-sword-of-ser-athelstan.md` | The Sword of Ser Athelstan | `[x]` |
-| `relics/the-flame-of-ralertis.md` | The Flame of Ralertis | `[x]` |
-| `relics/the-mirror-of-carthara.md` | The Mirror of Carthara | `[x]` |
-| `relics/the-amulet-of-shahin.md` | The Amulet of Shahin | `[x]` |
-| `relics/the-wanderers-compass.md` | The Wanderer's Compass | `[x]` |
-| `relics/the-book-of-the-second-life.md` | The Book of the Second Life | `[x]` |
-| `relics/the-lost-imperial-seal.md` | The Lost Imperial Seal | `[x]` |
-| `relics/relics-how-to-use.md` | Relics: How to Use Them in Play | `[x]` |
+| `part3/relics/the-crown-of-shahin.md` | The Crown of Shahin | `[x]` |
+| `part3/relics/the-sword-of-ser-athelstan.md` | The Sword of Ser Athelstan | `[x]` |
+| `part3/relics/the-flame-of-ralertis.md` | The Flame of Ralertis | `[x]` |
+| `part3/relics/the-mirror-of-carthara.md` | The Mirror of Carthara | `[x]` |
+| `part3/relics/the-amulet-of-shahin.md` | The Amulet of Shahin | `[x]` |
+| `part3/relics/the-wanderers-compass.md` | The Wanderer's Compass | `[x]` |
+| `part3/relics/the-book-of-the-second-life.md` | The Book of the Second Life | `[x]` |
+| `part3/relics/the-lost-imperial-seal.md` | The Lost Imperial Seal | `[x]` |
+| `part3/relics/relics-how-to-use.md` | Relics: How to Use Them in Play | `[x]` |
 
 ---
 

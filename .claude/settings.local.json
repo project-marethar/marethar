@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "PowerShell(Rename-Item *)",
-      "Skill(polish)"
+      "Skill(polish)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }

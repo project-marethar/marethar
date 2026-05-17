@@ -17,6 +17,10 @@ ambientazione/          ← Italian source (read-only reference)
 en/                     ← English output (canonical content — used by both pipelines)
   index.md              ← Wiki/book home page
   part0/ – part6/      ← Translated files land here, same filename
+  part2/cultures/       ← Atomized culture pages (aridonians.md, etc.)
+  part2/religions/      ← Atomized religion pages (sect-of-shahin.md, etc.)
+  part2/nations/        ← Atomized nation pages (republic-of-premia.md, etc.)
+  part3/relics/         ← Atomized relic pages (the-crown-of-shahin.md, etc.)
 
 wiki/                   ← Quartz v4 static wiki (reads from ../en at build time)
 filters/                ← Pandoc Lua filters
