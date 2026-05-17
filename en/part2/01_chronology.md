@@ -17,9 +17,9 @@ This chronology is **imperfect and contested**, but allows the continent's histo
 
 *(from mythic time to approximately 800 years ago)*
 
-* **Oral founding of the cults of Shahin, Pulbium, and Shemshahva**: The first ritual communities organize around arboreal symbols, constellations, and unwritten laws. *(gold)*
-* **Beginning of irrigated agriculture along the Dor**: Consolidation of Naharim tribes into stable communities. *(blue)*
-* **Ritual wars between Aridonian clans**: The "Lion Wars" mark the passage from mythic narrative to political organization. *(red)*
+* **Oral founding of the cults of [[Sect of Shahin|Shahin]], [[Faith of Pulbium|Pulbium]], and [[Faith of Shemshahva|Shemshahva]]**: The first ritual communities organize around arboreal symbols, constellations, and unwritten laws. *(gold)*
+* **Beginning of irrigated agriculture along the Dor**: Consolidation of [[Naharim]] tribes into stable communities. *(blue)*
+* **Ritual wars between [[Aridonians|Aridonian]] clans**: The "Lion Wars" mark the passage from mythic narrative to political organization. *(red)*
 * **First transcription of a sacred poem at Fahya**: Survives in fragments in the "Liturgy of the Three Shadows." *(gold/blue)*
 * **Contradiction**: the Aridonian chronology places the appearance of the sacred Bull two centuries before the spread of agriculture; some scholars consider this a ritual anachronism.
 
@@ -27,20 +27,20 @@ This chronology is **imperfect and contested**, but allows the continent's histo
 
 *(approximately 800–400 years ago)*
 
-* **Founding of the Rhithian League**: The islands unite under a trade pact, with a shared calendar. *(red)*
+* **Founding of the [[Rhithian League]]**: The islands unite under a trade pact, with a shared calendar. *(red)*
 * **Birth of the first craft and merchant guilds**: Standardization of measures, codification of alchemical formulae. *(blue)*
-* **First Maritime War between Lysandria and Thalassia**: Armed ships become vectors of cult and commerce. *(red/gold)*
-* **Burning of the Ancient Library of Preiacoria**: Many ritual texts and the first codified celestial maps are lost. *(gold/blue)*
+* **First Maritime War between [[Lysandrians|Lysandria]] and [[Thalassians|Thalassia]]**: Armed ships become vectors of cult and commerce. *(red/gold)*
+* **Burning of the Ancient Library of [[Republic of Premia|Preiacoria]]**: Many ritual texts and the first codified celestial maps are lost. *(gold/blue)*
 * **Contradiction**: the Chronicle of Aurel maintains that the Rhithian League was founded after the war, but numismatic findings seem to prove the contrary.
 
 ### **The Age of Reforms and Orders**
 
 *(approximately 400–120 years ago)*
 
-* **Codification of the Doctrines of Shahin**: The first formalized sacred text, divided into six books. *(gold)*
-* **Military unification of the Kingdom of Vallan**: Expansion at the expense of the mining regions and forced assimilation of mountain cults. *(red)*
-* **Flourishing of Linian alchemy**: First distillation towers, metal maps, study of transmutative properties. *(blue)*
-* **Treaty of the Two Truths between Premia and Ashania**: An accord for the coexistence of two rival faiths. *(red/gold)*
+* **Codification of the Doctrines of [[Sect of Shahin|Shahin]]**: The first formalized sacred text, divided into six books. *(gold)*
+* **Military unification of the [[Kingdom of Vallan]]**: Expansion at the expense of the mining regions and forced assimilation of mountain cults. *(red)*
+* **Flourishing of [[Empire of Linia|Linian]] alchemy**: First distillation towers, metal maps, study of transmutative properties. *(blue)*
+* **Treaty of the Two Truths between [[Republic of Premia|Premia]] and [[Diarchy of Ashania|Ashania]]**: An accord for the coexistence of two rival faiths. *(red/gold)*
 * **Contradiction**: the Treaty of the Two Truths is recorded as signed "in the year of the eclipse," but the documented eclipse corresponds to two decades after the conventional date.
 
 ### **The Age of Current Divergences**
@@ -61,10 +61,10 @@ The elaboration of a common chronology for Marethar is an enterprise as necessar
 Even civilizations with consolidated written traditions display **omissions, rewrites, ritual silences**. Lost archives, deliberate burnings, religious interdicts, and calendrical reforms have fragmented memory irreversibly. In many regions, oral transmission preceded (and often replaced) written transmission, generating at times severe discrepancies between different versions of the same event.
 
 **Religious calendars are not synchronized.**
-A feast day that marks the beginning of the year in Premia may coincide, in Ashania, with the closing of a cycle of penance. As a result, **the same event may be dated to two different eras**, or repeated with opposite meanings in distinct contexts. This is particularly evident in seasonal rites and commemorations of divine apparitions, which often "adapt themselves" to local liturgy.
+A feast day that marks the beginning of the year in [[Republic of Premia|Premia]] may coincide, in [[Diarchy of Ashania|Ashania]], with the closing of a cycle of penance. As a result, **the same event may be dated to two different eras**, or repeated with opposite meanings in distinct contexts. This is particularly evident in seasonal rites and commemorations of divine apparitions, which often "adapt themselves" to local liturgy.
 
 **Some events are symbolic, backdated, or constructed ex post.**
-The "Awakening of Shahin," for example, is traditionally placed six centuries ago, but no document earlier than three centuries makes mention of it. Similarly, the "Fall of the Thirteen Furrows" is attested only by poetic sources at least two generations later than the event itself.
+The "Awakening of [[Sect of Shahin|Shahin]]," for example, is traditionally placed six centuries ago, but no document earlier than three centuries makes mention of it. Similarly, the "Fall of the Thirteen Furrows" is attested only by poetic sources at least two generations later than the event itself.
 In these cases, chronology serves **more to legitimize a present** than to describe a verifiable past.
 
 For all these reasons, every date given in the essential chronology must be considered an **operational hypothesis, not an absolute truth**.

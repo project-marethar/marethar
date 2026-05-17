@@ -22,7 +22,7 @@ The Guild controls much of the trade in spices and textiles. It is not merely an
 Presided over by an "Arbiter of Flavor," elected every five years, it regulates prices, defines routes, and, when necessary, imposes internal sanctions.
 **Every city with a recognized emporium is bound to the Guild's commercial charter.**
 
-> *Influence*: Decisive in Meshdad and Hamania, growing in Premia and Rhithia
+> *Influence*: Decisive in [[Republic of Meshdad|Meshdad]] and [[Grand Duchy of Hamania|Hamania]], growing in [[Republic of Premia|Premia]] and [[Rhithian League|Rhithia]]
 > *Rites*: The "Oath of Spices" is performed blindfolded, in a room where every scent has a precise meaning
 
 ---
@@ -31,7 +31,7 @@ Presided over by an "Arbiter of Flavor," elected every five years, it regulates 
 
 *Smiths, weavers, carpenters: masters, not servants*
 
-Every Vallanese artisan belongs to a brotherhood. Every brotherhood has a code, a genealogical tree, and a vendetta pending or honored.
+Every [[Kingdom of Vallan|Vallanese]] artisan belongs to a brotherhood. Every brotherhood has a code, a genealogical tree, and a vendetta pending or honored.
 The Brotherhood protects its own, but demands **absolute rigor in quality and conduct**. Mastery tournaments are true diplomatic events.
 
 * *Internal division*: every craft has its master craftsman, but internal conflicts are regulated by a Council of Hands
@@ -43,7 +43,7 @@ The Brotherhood protects its own, but demands **absolute rigor in quality and co
 
 *The sea does not forgive imperfections*
 
-This corporation **decides who may launch a ship, how, and with what blessing**. Without the seal of Lysandria, no ship enters the ports of Rhithia without risking embargo.
+This corporation **decides who may launch a ship, how, and with what blessing**. Without the seal of [[Lysandrians|Lysandria]], no ship enters the ports of [[Rhithian League|Rhithia]] without risking embargo.
 
 Every master carpenter is also a keeper of formulae, proportions, and oaths.
 The balance between technique and superstition is absolute: **a single error in construction can mean shipwreck… or curse.**
@@ -58,7 +58,7 @@ The balance between technique and superstition is absolute: **a single error in 
 
 *They do not practice magic: they practice invisible governance*
 
-The mages of Thalassia **are not hermits: they are functionaries, counselors, protectors**. Organized in a council led by an Archmage, they exercise arcane and juridical power.
+The mages of [[Thalassians|Thalassia]] **are not hermits: they are functionaries, counselors, protectors**. Organized in a council led by an Archmage, they exercise arcane and juridical power.
 The Order offers protection against supernatural threats and counsel to ambassadors and city-states.
 
 He who breaks a pact with a mage **does not merely break a contract: he breaks the balance with forces he does not know.**
@@ -82,7 +82,7 @@ They deal with agriculture, ritual health, and also rural justice. Some refuse t
 
 *If no one knows who commands, it is because everyone obeys*
 
-It is not a guild. It is not a sect. It is **a shadow with fingers everywhere**, born in Meshdad and grown where official power looked away.
+It is not a guild. It is not a sect. It is **a shadow with fingers everywhere**, born in [[Republic of Meshdad|Meshdad]] and grown where official power looked away.
 
 It manages smuggling, extortion, networks of informants, and political assassinations.
 Every "finger" of the Hand acts independently, but obeys a single rule: **never be noticed twice in the same place.**
@@ -123,7 +123,7 @@ Divided into specialized towers, the university guards **alchemical secrets, reg
 The college trains **jurists, diplomats, astronomers, but also poet-assassins and masters of noble rhetoric**.
 Open in structure, but hierarchical in debate: those who cannot defend a thesis cannot write it.
 
-Many Premian senators come from here.
+Many [[Republic of Premia|Premian]] senators come from here.
 
 * *Some sections of the college are interdicted during certain equinoxes. No one explains why.*
 
@@ -133,7 +133,7 @@ Many Premian senators come from here.
 
 *Anyone can learn. But not everyone can stay.*
 
-In the heart of Dajilia, the Academy is **a crossroads of knowledge and training**. It trains strategists, artists, healers, and weapons masters.
+In the heart of [[Principality of Dajilia|Dajilia]], the Academy is **a crossroads of knowledge and training**. It trains strategists, artists, healers, and weapons masters.
 The rector and council decide who may advance to the next level, but **ritual duels outweigh examinations**.
 
 * *Some say that an entire discipline is taught only in dreams, during the season of the winds.*
