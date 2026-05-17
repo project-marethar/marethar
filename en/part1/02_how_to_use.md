@@ -20,7 +20,7 @@ This makes it perfect for:
 * **military chronicles** in which the army is not merely an armed force, but an instrument of domination or liberation.
 
 > *Example*:
-> A group of agents tasked with negotiating peace between the [[Nations|Republic of Premia]] and the [[Nations|Kingdom of Vallan]] discovers that the accord requires the sacrifice of an unrecognized minority cult. Accepting the compromise would guarantee the end of a war — but at what price?
+> A group of agents tasked with negotiating peace between the [[Republic of Premia]] and the [[Kingdom of Vallan]] discovers that the accord requires the sacrifice of an unrecognized minority cult. Accepting the compromise would guarantee the end of a war — but at what price?
 
 ### Material and Social Culture at the Heart of Play
 
@@ -126,7 +126,7 @@ Starting to play in Marethar does not require reading the entire setting. The wo
 **1. Choose a localized starting point**
 A city, a region, a frontier. A single paragraph is all you need.
 
-> *Example:* "The [[Nations|Diarchy of Ashania]], between sacred forests and rural tensions, offers a perfect scenario for intimate, mysterious campaigns — where magic is whispered and nobles no longer trust their own guardians."
+> *Example:* "The [[Diarchy of Ashania]], between sacred forests and rural tensions, offers a perfect scenario for intimate, mysterious campaigns — where magic is whispered and nobles no longer trust their own guardians."
 
 **2. Choose two cultures in tension**
 Cultural differences are the lifeblood of play. They may involve religion, language, values. Even if you begin with a homogeneous group, the world around them will have to react.

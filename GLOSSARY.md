@@ -230,6 +230,7 @@ These alchemical symbols appear as section markers. Do not translate or remove.
 | Term | Found in | Notes |
 |------|----------|-------|
 | Tree Sect | 03_seeds.md | Colloquial name for Sect of Shahin? Possibly "Setta dell'Albero" in Italian — TO VERIFY |
+| Dorian River | 03_seeds.md | River in the Empire of Doria that changes course in "The Water Oath" seed — TO VERIFY |
 | Dor | 05_magic.md | Named river/deity; referenced as "breath of Dor" in Rainbow Serpent entry — TO VERIFY |
 | Desert of Suleiman | 05_magic.md | Named desert not on any official map; "no map can fix it twice" — TO VERIFY |
 | Lurocedina | 04_power.md | Location where an epigraph was carved on a statue fragment — TO VERIFY |

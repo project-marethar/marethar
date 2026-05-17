@@ -12,25 +12,25 @@ Though terminology varies, four major axes are recognized along which magical pr
 #### Elemental Magic
 
 **Origin and spread**: It is the oldest, and in many regions the most widespread. Rooted in archaic cults and shamanic rituals, it is grounded in the symbolic and practical mastery of the natural elements: fire, water, earth, air.
-**Practice**: It requires a direct relationship with the environment. [[Cultures of Marethar|Aridonian]] shamans command the ceremonial fire. The priests of Dor use water for purification. The druids of [[Religions and Beliefs|Dimilalica]] celebrate the seasonal winds and tectonic shifts.
+**Practice**: It requires a direct relationship with the environment. [[Aridonians|Aridonian]] shamans command the ceremonial fire. The priests of Dor use water for purification. The druids of [[Druidic Orders of Dimilalica|Dimilalica]] celebrate the seasonal winds and tectonic shifts.
 **Tensions**: Some academic orders consider this form crude and uncontrollable. Some cities ban it, fearing its destructive use in vengeance rituals.
 
 #### Divine Magic
 
 **Origin and spread**: It derives from the invocation of deities or superior spirits. It is tightly bound to the local religious structure and the legitimacy of its officiants.
-**Practice**: It passes through rituals, offerings, chants, prostrations. Only recognized devotees may access its powers. In [[Geography|Aridonia]], the priestesses of [[Religions and Beliefs|Shahin]] heal with consecrated sap. In [[Geography|Orethia]], the followers of [[Religions and Beliefs|Tudeshkhast]] use magic for rites of equilibrium.
-**Tensions**: Religious authorities control access to rituals. Heresies (such as the [[Religions and Beliefs|Sect of the Victory Bull]]) are persecuted for "improper" use of magic. Some faiths compete for the same domain (e.g., over healing or visions).
+**Practice**: It passes through rituals, offerings, chants, prostrations. Only recognized devotees may access its powers. In [[Aridonians|Aridonia]], the priestesses of [[Sect of Shahin|Shahin]] heal with consecrated sap. In [[Orethians|Orethia]], the followers of [[Faith of Tudeshkhast|Tudeshkhast]] use magic for rites of equilibrium.
+**Tensions**: Religious authorities control access to rituals. Heresies (such as the [[Sect of the Victory Bull]]) are persecuted for "improper" use of magic. Some faiths compete for the same domain (e.g., over healing or visions).
 
 #### Shamanic Magic
 
 **Origin and spread**: It belongs to tribal and marginal cultures. Founded on trance, dreams, possession, dialogue with spirits and ancestors.
-**Practice**: It is not learned in an academy. It is received through visions, rites of passage, and contacts with the invisible world. The shamans of [[Religions and Beliefs|Shemshahva]], for example, pass down chants that alter the perception of time.
+**Practice**: It is not learned in an academy. It is received through visions, rites of passage, and contacts with the invisible world. The shamans of [[Faith of Shemshahva|Shemshahva]], for example, pass down chants that alter the perception of time.
 **Tensions**: It is considered unreliable by many authorities. In some cities it is tolerated as folklore; in others, suppressed as heresy or fraud. Yet its actual power is acknowledged even by those who fear it.
 
 #### Alchemical Magic
 
 **Origin and spread**: It is born in laboratories, academies, and among the guilds. It combines empirical, symbolic, and mystical knowledge.
-**Practice**: It requires techniques, tools, knowledge of rare substances, and encoded ciphers. In [[Nations|Linia]] and [[Nations|Premia]], alchemists work under contract for the élite, creating potions, explosives, seals, and arcane mechanisms.
+**Practice**: It requires techniques, tools, knowledge of rare substances, and encoded ciphers. In [[Empire of Linia|Linia]] and [[Republic of Premia|Premia]], alchemists work under contract for the élite, creating potions, explosives, seals, and arcane mechanisms.
 **Tensions**: Its efficacy is feared as much as its opacity. Some confuse it with pure science; others see it as a social threat. Formulae are jealously guarded; fraud is frequent.
 
 ### Who Has Access to Power? At What Price?
@@ -59,7 +59,7 @@ Some places in Marethar display anomalous concentrations of arcane energy. Somet
 
 #### Ritual Sites
 
-* **The crypts of [[Religions and Beliefs|Shahin]]** at [[Geography|Nabad]]
+* **The crypts of [[Sect of Shahin|Shahin]]** at [[Principality of Dajilia|Nabad]]
 * **The ceremonial clearings** of the Aurel Forest
 * **The river sanctuaries** along the Dor, where the water is called "singing"
 
@@ -67,22 +67,22 @@ Spaces still active, tied to seasonal ceremonies, solstices, apparitions.
 
 #### Laboratories and Centers of Knowledge
 
-* **The isolated towers** of [[Nations|Linia]]'s alchemists
+* **The isolated towers** of [[Empire of Linia|Linia]]'s alchemists
 * **The deep laboratories** of the university of [[Geography|Fahya]]
-* **The chambers of forbidden substances** in [[Geography|Preiacoria]]
+* **The chambers of forbidden substances** in [[Republic of Premia|Preiacoria]]
 
 Here experiments are conducted, and *attempts made to map* power itself. Some of these places have been kept secret for centuries.
 
 #### Ambiguous and Contested Sites
 
-* The **submerged ruins** of [[Geography|Thalassia]], visible only during reverse tides
-* The **silent mines** of [[Nations|Vallan]], from which metals that "make no sound" are extracted
+* The **submerged ruins** of [[Thalassians|Thalassia]], visible only during reverse tides
+* The **silent mines** of [[Kingdom of Vallan|Vallan]], from which metals that "make no sound" are extracted
 * The **caves of the Desert of Suleiman**, which no map can fix twice
 
 On these places there is no consensus: some consider them cursed, others sites of revelation. Scholars are divided between those who wish to isolate them and those who wish to exploit them.
 
 #### Voices and Fragments
 
-> "There is a room beneath the city of [[Nations|Allasia]] where the air never ages."
-> "The recurring dreams of the [[Religions and Beliefs|Sect of the Victory Bull]]'s devotees correspond to the map of a forgotten fortress."
-> "An alembic left burning too long sang for three days in the tower of [[Nations|Premia]]."
+> "There is a room beneath the city of [[City-State of Allasia|Allasia]] where the air never ages."
+> "The recurring dreams of the [[Sect of the Victory Bull]]'s devotees correspond to the map of a forgotten fortress."
+> "An alembic left burning too long sang for three days in the tower of [[Republic of Premia|Premia]]."
