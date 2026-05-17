@@ -5,7 +5,7 @@
 > *"Not everything that is inscribed is true. But everything that endures through time has something to say."*
 > — A broken epigraph, recovered from the sunken temple of Rhidar
 
-#### Unsent Letter: found in the jacket of a Linian officer
+#### Unsent Letter: found in the jacket of a [[Empire of Linia|Linian]] officer
 
 *Dated "four days before the invasion of the Murith Pass"*
 
@@ -15,7 +15,7 @@
 > Our engineers have finished their surveys: the cannons will be positioned before dawn.
 > We have received no explicit orders, but the general's remarks speak plainly: they mean to advance at any cost.
 >
-> And yet, just yesterday, I met a Rashian merchant. One of those with a weasel's eyes and a scribe's hands.
+> And yet, just yesterday, I met a [[Rashian Empire|Rashian]] merchant. One of those with a weasel's eyes and a scribe's hands.
 > He offered us salt. And timber. And plans for an improved siege tower.
 > He says he has "clients on both sides."
 >
@@ -26,12 +26,12 @@
 >
 > — Aurel
 
-#### Graffito in the harbour district of Lysandria
+#### Graffito in the harbour district of [[Lysandrians|Lysandria]]
 
 > *"Justice sails. But the poor remain on shore."*
 > Inscribed with a shell; partially worn away by time.
 
-#### Excerpt from an oral chronicle of a Victory Bull priestess
+#### Excerpt from an oral chronicle of a [[Sect of the Victory Bull|Victory Bull]] priestess
 
 > *"I will not tell you whether Adrarad still walks.
 > I will only tell you that when he is angry, the sands turn liquid.
@@ -42,7 +42,7 @@
 > *"The third formula can invert the voice of whoever lies.
 > Do not use it in the presence of the Senate."*
 
-#### Unofficial Minutes: Artisans' Brotherhood of Vallan
+#### Unofficial Minutes: Artisans' Brotherhood of [[Kingdom of Vallan|Vallan]]
 
 *Confidential record, not authenticated by the Council of Hands*
 
@@ -51,7 +51,7 @@
 > **Attendees**: 11 (including a masked woman not officially recognized)
 >
 > **Harvek opens the council with the following declaration**:
-> *"Brothers and sisters, we have been asked to accept the use of the new alloy proposed by Linia. They say it is lighter, stronger, cheaper."*
+> *"Brothers and sisters, we have been asked to accept the use of the new alloy proposed by [[Empire of Linia|Linia]]. They say it is lighter, stronger, cheaper."*
 >
 > **Ritual silence of two heartbeats follows.**
 >
@@ -64,25 +64,25 @@
 > **Harvek closes the council with a notarial act inscribed in stone**:
 > *"The Brotherhood does not ratify the alloy until the name of its creator is inscribed in fire and witnessed by at least three hands."*
 
-#### Funerary inscription, anonymous, in the crypt of the Orethian Judges
+#### Funerary inscription, anonymous, in the crypt of the [[Orethians|Orethian]] Judges
 
 > *"Here lies one who never erred.
 > That is why no one remembers him."*
 
-#### Saying passed among the Silent Academics of Fahya
+#### Saying passed among the Silent Academics of [[Republic of Meshdad|Fahya]]
 
 > *"A truth spoken too soon becomes heresy.
 > One spoken too late, an obituary."*
 
-#### Fragment on parchment recovered at Nabad, half-burned
+#### Fragment on parchment recovered at [[Principality of Dajilia|Nabad]], half-burned
 
 > *"…and when the third lion roared,
 > the sand forgot the name of the shadow.
 > Thus began the long march of the pulseless."*
 
-#### Informal Interrogation: transcribed by an agent of the Black Hand
+#### Informal Interrogation: transcribed by an agent of the [[Guilds, Orders, and Academies|Black Hand]]
 
-*Document obtained anonymously; provenance: Meshdad*
+*Document obtained anonymously; provenance: [[Republic of Meshdad|Meshdad]]*
 
 > **Agent (A):** So. Did you see the serpent?
 >
@@ -108,7 +108,7 @@
 >
 > **D:** No. Its own.
 
-#### Side note in a traveller's journal, Allasia
+#### Side note in a traveller's journal, [[City-State of Allasia|Allasia]]
 
 > *"The map is wrong.
 > Or worse: it is right, but only for those who have already taken the wrong road."*

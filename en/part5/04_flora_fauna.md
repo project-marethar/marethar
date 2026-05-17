@@ -6,7 +6,7 @@ The Marethar region is a place of extraordinary biodiversity, with a variety of 
 
 #### Forests of Linia
 
-The forests of Linia, situated within the Empire of Linia, are characterized by dense and varied vegetation.
+The forests of [[Empire of Linia|Linia]], situated within the Empire of Linia, are characterized by dense and varied vegetation.
 
 **Principal Plants:**
 
@@ -20,7 +20,7 @@ The forests of Linia, situated within the Empire of Linia, are characterized by 
 
 #### Plains of Vallan
 
-The plains of Vallan, situated within the Kingdom of Vallan, are famous for their fertility and abundance of cultivated plants.
+The plains of [[Kingdom of Vallan|Vallan]], situated within the Kingdom of Vallan, are famous for their fertility and abundance of cultivated plants.
 
 **Principal Plants:**
 
@@ -34,7 +34,7 @@ The plains of Vallan, situated within the Kingdom of Vallan, are famous for thei
 
 #### Mountains of Orethia
 
-The mountains of Orethia are rich in mineral resources and host flora adapted to the mountain climate.
+The mountains of [[Orethians|Orethia]] are rich in mineral resources and host flora adapted to the mountain climate.
 
 **Principal Plants:**
 
@@ -48,7 +48,7 @@ The mountains of Orethia are rich in mineral resources and host flora adapted to
 
 #### Marshes of Meshdad
 
-The marshes of Meshdad, situated within the Republic of Meshdad, are a wet and biodiverse habitat.
+The marshes of [[Republic of Meshdad|Meshdad]], situated within the Republic of Meshdad, are a wet and biodiverse habitat.
 
 **Principal Plants:**
 
@@ -62,7 +62,7 @@ The marshes of Meshdad, situated within the Republic of Meshdad, are a wet and b
 
 #### Hills of Ashania
 
-The hills of Ashania, situated within the Diarchy of Ashania, are known for their viticulture and olive cultivation.
+The hills of [[Diarchy of Ashania|Ashania]], situated within the Diarchy of Ashania, are known for their viticulture and olive cultivation.
 
 **Principal Plants:**
 
@@ -80,7 +80,7 @@ The hills of Ashania, situated within the Diarchy of Ashania, are known for thei
 
 #### Forests of Linia
 
-The forests of Linia harbor a diversified fauna, with numerous species of mammals, birds, and reptiles.
+The forests of [[Empire of Linia|Linia]] harbor a diversified fauna, with numerous species of mammals, birds, and reptiles.
 
 **Principal Animals:**
 
@@ -94,7 +94,7 @@ The forests of Linia harbor a diversified fauna, with numerous species of mammal
 
 #### Plains of Vallan
 
-The plains of Vallan support a large population of herbivores and predators.
+The plains of [[Kingdom of Vallan|Vallan]] support a large population of herbivores and predators.
 
 **Principal Animals:**
 
@@ -108,7 +108,7 @@ The plains of Vallan support a large population of herbivores and predators.
 
 #### Mountains of Orethia
 
-The mountains of Orethia are inhabited by animals adapted to harsh and demanding conditions.
+The mountains of [[Orethians|Orethia]] are inhabited by animals adapted to harsh and demanding conditions.
 
 **Principal Animals:**
 
@@ -122,7 +122,7 @@ The mountains of Orethia are inhabited by animals adapted to harsh and demanding
 
 #### Marshes of Meshdad
 
-The marshes of Meshdad harbor fauna adapted to wet and aquatic environments.
+The marshes of [[Republic of Meshdad|Meshdad]] harbor fauna adapted to wet and aquatic environments.
 
 **Principal Animals:**
 
@@ -136,7 +136,7 @@ The marshes of Meshdad harbor fauna adapted to wet and aquatic environments.
 
 #### Hills of Ashania
 
-The hills of Ashania support a diversified fauna, with numerous species of mammals, birds, and insects.
+The hills of [[Diarchy of Ashania|Ashania]] support a diversified fauna, with numerous species of mammals, birds, and insects.
 
 **Principal Animals:**
 
@@ -152,7 +152,7 @@ The hills of Ashania support a diversified fauna, with numerous species of mamma
 
 ### Natural Resources
 
-#### Minerals of the Rashian Mountains
+#### Minerals of the [[Rashian Empire|Rashian]] Mountains
 
 The mountains to the northeast of Marethar are rich in precious minerals.
 
@@ -164,7 +164,7 @@ The mountains to the northeast of Marethar are rich in precious minerals.
 
 #### Timber of the Forests of Linia
 
-The forests of Linia provide high-quality timber.
+The forests of [[Empire of Linia|Linia]] provide high-quality timber.
 
 **Principal Resources:**
 
@@ -186,37 +186,37 @@ The waters of Marethar are rich in marine resources that support the local econo
 
 ### Mythic Creatures
 
-#### Thalassia
+#### [[Thalassians|Thalassia]]
 
 **Sirens of Marethar:** Mythic creatures inhabiting the depths of the sea, known for their enchanting song that lures sailors toward dangerous reefs. The sirens are inspired by Greek mythology and maritime legend.
 
 **Leviathan:** A colossal sea monster said to rise from the depths to sink ships. This creature is inspired by sea monster stories found in the legends of many Mediterranean cultures.
 
-#### Aridonia
+#### [[Aridonians|Aridonia]]
 
 **Desert Ifrit:** Fire spirits inhabiting the desert dunes, known for their ability to manipulate flame and unleash sandstorms. The ifrit are inspired by Arabic and Berber mythology.
 
 **Roc:** A gigantic predatory bird said to be able to lift elephants in its talons. The Roc is inspired by Middle Eastern and Asian legend.
 
-#### Orethia
+#### [[Orethians|Orethia]]
 
 **Stone Golem:** Animated creatures fashioned by miners to protect the mines and mountain cities. The Golems are inspired by Hebrew folklore and European mythology.
 
 **Fire Dragon:** A legendary creature inhabiting the mountain caves, known for its ability to breathe fire. Inspired by dragons of European and Ottoman mythologies.
 
-#### Naharim
+#### [[Naharim]]
 
 **Anubi Guardians:** Guardian spirits with jackal heads that protect tombs and temples, inspired by the funerary gods of Egypt. Anubis is a central figure in Egyptian mythology, associated with protection and guidance in the afterlife.
 
 **Rainbow Serpent:** A mythic serpent that controls floods and rains, symbol of fertility and prosperity. Inspired by the Inca and Aztec myths of serpentine deities.
 
-#### Aurelia
+#### [[Aurelians|Aurelia]]
 
 **Golden Griffin:** A creature with the body of a lion and the head of an eagle, symbol of power and nobility. Inspired by the griffins of Greek and Roman mythology.
 
 **Ruin Fae:** Spirits inhabiting ancient ruins, known for their beauty and the power to protect hidden treasures. The fae are inspired by European folklore and Renaissance legend.
 
-#### Lysandria
+#### [[Lysandrians|Lysandria]]
 
 **Labyrinth Minotaur:** A half-human, half-bull creature inhabiting the labyrinths beneath the city-states, guarding secrets and hidden wealth. Inspired by Greek mythology, in particular the legend of the Minotaur of Crete.
 
@@ -226,7 +226,7 @@ The waters of Marethar are rich in marine resources that support the local econo
 
 ### Flora and Fauna by Region
 
-#### Thalassia
+#### [[Thalassians|Thalassia]]
 
 **Flora:**
 
@@ -238,7 +238,7 @@ The waters of Marethar are rich in marine resources that support the local econo
 * **Royal Gull:** A common seabird along the coasts, known for its habit of following ships in search of food.
 * **Marethar Sea Turtle:** A species of sea turtle that nests on the sandy beaches of Thalassia.
 
-#### Aridonia
+#### [[Aridonians|Aridonia]]
 
 **Flora:**
 
@@ -250,7 +250,7 @@ The waters of Marethar are rich in marine resources that support the local econo
 * **Fennec:** A small desert fox with large ears, adapted to arid conditions.
 * **Golden Scorpion:** A venomous insect common in the sandy dunes.
 
-#### Orethia
+#### [[Orethians|Orethia]]
 
 **Flora:**
 
@@ -262,7 +262,7 @@ The waters of Marethar are rich in marine resources that support the local econo
 * **Wild Yak:** A large bovine living at mountain elevations, hunted for meat and wool.
 * **Summit Falcon:** A raptor dominating the mountain skies, also used in hunting.
 
-#### Naharim
+#### [[Naharim]]
 
 **Flora:**
 
@@ -274,7 +274,7 @@ The waters of Marethar are rich in marine resources that support the local econo
 * **Nilo Caiman:** A powerful reptile inhabiting the waters of the great river, feared and respected.
 * **Sacred Ibis:** A symbolic bird, often depicted in hieroglyphs and temples.
 
-#### Aurelia
+#### [[Aurelians|Aurelia]]
 
 **Flora:**
 
@@ -286,7 +286,7 @@ The waters of Marethar are rich in marine resources that support the local econo
 * **Imperial Wolf:** A predator living in the forests and hills, symbol of strength and unity.
 * **White Dove:** A bird symbolizing peace and purity, often kept as a companion animal.
 
-#### Lysandria
+#### [[Lysandrians|Lysandria]]
 
 **Flora:**
 

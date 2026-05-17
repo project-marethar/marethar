@@ -61,4 +61,4 @@ Every campaign may answer differently, and the answer changes Marethar.
 * Factional trigger: each group holds a different answer, and wants to impose it.
 * Mystic key: the question *is* the ritual. Whoever speaks it aloud changes things.
 
-> *Example*: "What is Shahin?" If the answer is *shared memory*, then whoever lies breaks the cult.
+> *Example*: "What is [[Sect of Shahin|Shahin]]?" If the answer is *shared memory*, then whoever lies breaks the cult.

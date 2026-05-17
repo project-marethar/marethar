@@ -235,3 +235,5 @@ These alchemical symbols appear as section markers. Do not translate or remove.
 | Desert of Suleiman | 05_magic.md | Named desert not on any official map; "no map can fix it twice" — TO VERIFY |
 | Lurocedina | 04_power.md | Location where an epigraph was carved on a statue fragment — TO VERIFY |
 | Aurel Forest | 05_magic.md | Site of ceremonial clearings for seasonal rites — TO VERIFY |
+| Karnak | 07_technology.md | Mining region producing black copper — TO VERIFY |
+| Thalassos | 09_myths.md | "God of the Sea" who aided Lysander; may be same as Thalaran or separate deity — TO VERIFY |

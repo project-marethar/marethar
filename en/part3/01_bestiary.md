@@ -29,7 +29,7 @@ They sing among the rocks and lure ships. They do not always kill. Some save. So
 
 #### **Desert Ifrit**
 
-Walking flames, incarnations of fury and buried secrets. Some tribes venerate them as messengers of Shahin; others hunt them. No one has ever counted the same Ifrit's shape twice.
+Walking flames, incarnations of fury and buried secrets. Some tribes venerate them as messengers of [[Sect of Shahin|Shahin]]; others hunt them. No one has ever counted the same Ifrit's shape twice.
 
 > **Game potential**: an Ifrit follows the characters, but burns only what they carry, never what they touch.
 >
@@ -61,12 +61,12 @@ Created to guard the mines, some are still active. They defend passages that not
 
 #### **Rainbow Serpent**
 
-River and divinity at once. Those who see it often change. Those who fear it placate it with song. The Naharim say **it is the breath of Dor itself**.
+River and divinity at once. Those who see it often change. Those who fear it placate it with song. The [[Naharim]] say **it is the breath of Dor itself**.
 
 > **Game potential**: the river changes course to avoid it… leaving a village without water.
 >
 
-#### **Phoenix of Linia**
+#### **Phoenix of [[Empire of Linia|Linia]]**
 
 It is reborn, but never as the same creature. Its tears heal, but at a steep price. Some say **it also burns memories**.
 

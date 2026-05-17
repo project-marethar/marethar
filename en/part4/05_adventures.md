@@ -6,53 +6,53 @@
 
 #### The Treasure Hunt of Thalassia
 
-* **Hook:** The players receive a map leading to an ancient treasure hidden in the depths of Thalassia's waters.
+* **Hook:** The players receive a map leading to an ancient treasure hidden in the depths of [[Thalassians|Thalassia]]'s waters.
 * **Objectives:** Decipher the map, cross waters infested with pirates and sea monsters, locate and recover the treasure.
 
 #### The Miners' Revolt of Orethia
 
-* **Hook:** The miners of the Orethian mountains revolt against harsh working conditions, and the players are tasked with resolving the conflict.
+* **Hook:** The miners of the [[Orethians|Orethian]] mountains revolt against harsh working conditions, and the players are tasked with resolving the conflict.
 * **Objectives:** Negotiate with the rebels, investigate the working conditions, find a peaceful resolution or suppress the revolt.
 
 #### The Secret of Meshdad
 
-* **Hook:** Rumors of a powerful magical artifact hidden in the marshes of Meshdad draw the players' attention.
+* **Hook:** Rumors of a powerful magical artifact hidden in the marshes of [[Republic of Meshdad|Meshdad]] draw the players' attention.
 * **Objectives:** Explore the marshes, uncover ancient secrets, face magical guardians and rivals.
 
 ### **Plots and Missions**
 
 #### The Spice War
 
-* **Plot:** Two rival nations, Meshdad and Rashia, enter into conflict over control of the spice trade routes.
+* **Plot:** Two rival nations, [[Republic of Meshdad|Meshdad]] and [[Rashian Empire|Rashia]], enter into conflict over control of the spice trade routes.
 * **Missions:** Guard spice convoys, sabotage enemy operations, negotiate alliances and peace treaties, fight in decisive battles.
 
-#### The Cult of Shahin
+#### The Cult of [[Sect of Shahin|Shahin]]
 
-* **Plot:** A radical splinter within the Sect of Shahin threatens to destabilize the political balance of Aridonia.
+* **Plot:** A radical splinter within the Sect of Shahin threatens to destabilize the political balance of [[Aridonians|Aridonia]].
 * **Missions:** Infiltrate the faction, uncover their secret plans, prevent a coup, eliminate the radical leaders.
 
 #### The Conquest of Dajilia
 
-* **Plot:** The Rashian Empire plans the invasion of the Principality of Dajilia, and the players must defend it.
+* **Plot:** The [[Rashian Empire]] plans the invasion of the [[Principality of Dajilia]], and the players must defend it.
 * **Missions:** Fortify the defenses, sabotage the enemy advance, recruit allies, take part in strategic battles.
 
 ### **Non-Player Characters (NPCs)**
 
 #### High Priest Khalil
 
-* **Role:** Spiritual leader of the Sect of Shahin.
-* **Description:** Wise and charismatic, Khalil is respected and feared. His wisdom is legendary, and his influence extends well beyond the borders of Aridonia.
+* **Role:** Spiritual leader of the [[Sect of Shahin]].
+* **Description:** Wise and charismatic, Khalil is respected and feared. His wisdom is legendary, and his influence extends well beyond the borders of [[Aridonians|Aridonia]].
 * **Objectives:** Maintain the unity of the sect, prevent internal conflicts, guide the people toward spiritual prosperity.
 
 #### Commander Zara
 
-* **Role:** Commander of the Shadow Troops of Linia.
+* **Role:** Commander of the Shadow Troops of [[Empire of Linia|Linia]].
 * **Description:** A skilled strategist and formidable warrior, Zara is known for her determination and courage.
 * **Objectives:** Protect the empire, conduct covert operations, train new members of the Shadow Troops.
 
 #### Merchant Rashid
 
-* **Role:** A wealthy spice merchant of Meshdad.
+* **Role:** A wealthy spice merchant of [[Republic of Meshdad|Meshdad]].
 * **Description:** Cunning and ambitious, Rashid is always seeking new commercial opportunities.
 * **Objectives:** Expand his trading network, accumulate wealth, shape local policies to his advantage.
 
@@ -60,24 +60,24 @@
 
 #### The Ruins of Alasia
 
-* **Description:** Ancient ruins on an island near the City-State of Allasia, rich with history and mystery.
+* **Description:** Ancient ruins on an island near the [[City-State of Allasia]], rich with history and mystery.
 * **Hazards:** Mythic creatures, ancestral traps, competition with other adventurers.
 * **Rewards:** Hidden treasures, magical artifacts, lost knowledge.
 
 #### The Forest of Linia
 
-* **Description:** A vast forest within the Empire of Linia, known for its dense vegetation and varied fauna.
+* **Description:** A vast forest within the [[Empire of Linia]], known for its dense vegetation and varied fauna.
 * **Hazards:** Wild animals, forest spirits, harsh weather.
 * **Rewards:** Rare medicinal herbs, valuable timber, natural secrets.
 
 #### The Iron Mines of Orethia
 
-* **Description:** Deep, labyrinthine mines in the mountains of Orethia, rich with precious minerals.
+* **Description:** Deep, labyrinthine mines in the mountains of [[Orethians|Orethia]], rich with precious minerals.
 * **Hazards:** Cave-ins, subterranean creatures, rivalry between miners.
 * **Rewards:** Precious minerals, ancient hidden artifacts, advanced mining technology.
 
 #### The River Citadel of Dor
 
-* **Description:** A magnificent citadel along the great River Dor, heart of the Empire of Doria.
+* **Description:** A magnificent citadel along the great River Dor, heart of the [[Empire of Doria]].
 * **Hazards:** Imperial guards, political intrigues, river magic.
 * **Rewards:** Access to influential allies, river resources, secrets of water magic.

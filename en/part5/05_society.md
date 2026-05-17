@@ -10,7 +10,7 @@ Marethar is a crucible of diverse cultures, each with its own traditions, social
 
 #### Thalassia
 
-Thalassian society is highly stratified, with sharp distinctions between social classes.
+[[Thalassians|Thalassian]] society is highly stratified, with sharp distinctions between social classes.
 
 * **Nobles:** Dominate politics and hold vast landholdings and merchant fleets.
 * **Merchants:** A powerful class through control of trade routes and international commerce.
@@ -19,7 +19,7 @@ Thalassian society is highly stratified, with sharp distinctions between social 
 
 #### Aridonia
 
-Aridonian society is characterized by tribal and clan-based structures.
+[[Aridonians|Aridonian]] society is characterized by tribal and clan-based structures.
 
 * **Clan Chieftains:** Govern the clans and make key political decisions.
 * **Warriors:** A respected and feared class, charged with territorial defense.
@@ -28,7 +28,7 @@ Aridonian society is characterized by tribal and clan-based structures.
 
 #### Orethia
 
-Orethian society is militarized and hierarchical.
+[[Orethians|Orethian]] society is militarized and hierarchical.
 
 * **Warrior Nobility:** Governs the country and commands the army.
 * **Miners and Smiths:** Crucial to the economy through metalworking.
@@ -37,7 +37,7 @@ Orethian society is militarized and hierarchical.
 
 #### Naharim
 
-Naharim has a theocratic and agricultural social structure.
+[[Naharim]] has a theocratic and agricultural social structure.
 
 * **Priests:** Hold both political and religious power.
 * **Sacred Warriors:** Defend the temples and territory.
@@ -46,7 +46,7 @@ Naharim has a theocratic and agricultural social structure.
 
 #### Aurelia
 
-The Aurelian realm is organized along feudal lines.
+The [[Aurelians|Aurelian]] realm is organized along feudal lines.
 
 * **Emperor:** The supreme political and military authority.
 * **Senate and Nobility:** Counsel the emperor and govern the provinces.
@@ -55,7 +55,7 @@ The Aurelian realm is organized along feudal lines.
 
 #### Lysandria
 
-Lysandria is a federation of city-states with democratic or oligarchic governments.
+[[Lysandrians|Lysandria]] is a federation of city-states with democratic or oligarchic governments.
 
 * **Archons and Senators:** Govern the city-states.
 * **Merchants:** Dominate the economy and commercial policy.
@@ -66,7 +66,7 @@ Lysandria is a federation of city-states with democratic or oligarchic governmen
 
 ### Traditions and Customs
 
-#### Thalassia
+#### [[Thalassians|Thalassia]]
 
 **Traditions:** Deep maritime and commercial bonds, with a culture oriented toward the sea.
 
@@ -75,7 +75,7 @@ Lysandria is a federation of city-states with democratic or oligarchic governmen
 
 **Customs:** Habits rooted in sea life, including fishing and navigation.
 
-#### Aridonia
+#### [[Aridonians|Aridonia]]
 
 **Traditions:** Tribal culture with strong family and clan ties.
 
@@ -84,7 +84,7 @@ Lysandria is a federation of city-states with democratic or oligarchic governmen
 
 **Customs:** Nomadic life with a strong emphasis on honor and tradition.
 
-#### Orethia
+#### [[Orethians|Orethia]]
 
 **Traditions:** A militarized culture with emphasis on discipline and strength.
 
@@ -93,7 +93,7 @@ Lysandria is a federation of city-states with democratic or oligarchic governmen
 
 **Customs:** Rigorous and disciplined life, with a strong emphasis on courage and loyalty.
 
-#### Naharim
+#### [[Naharim]]
 
 **Traditions:** Agricultural and religious culture, with a deep connection to the sacred river.
 
@@ -102,7 +102,7 @@ Lysandria is a federation of city-states with democratic or oligarchic governmen
 
 **Customs:** Life centered on the river, with a strong emphasis on spirituality and the natural world.
 
-#### Aurelia
+#### [[Aurelians|Aurelia]]
 
 **Traditions:** Imperial culture with a strong emphasis on art and science.
 
@@ -111,7 +111,7 @@ Lysandria is a federation of city-states with democratic or oligarchic governmen
 
 **Customs:** Urban life with a strong emphasis on culture and knowledge.
 
-#### Lysandria
+#### [[Lysandrians|Lysandria]]
 
 **Traditions:** Democratic culture with strong emphasis on civic participation.
 
@@ -124,7 +124,7 @@ Lysandria is a federation of city-states with democratic or oligarchic governmen
 
 ### Clothing and Fashion
 
-#### Thalassia
+#### [[Thalassians|Thalassia]]
 
 Practical and ornate clothing shaped by maritime and commercial life.
 
@@ -133,7 +133,7 @@ Practical and ornate clothing shaped by maritime and commercial life.
 
 **Fashion:** Elegant but functional, with vivid colors and maritime motifs.
 
-#### Aridonia
+#### [[Aridonians|Aridonia]]
 
 Clothing adapted to the desert climate and nomadic life.
 
@@ -142,7 +142,7 @@ Clothing adapted to the desert climate and nomadic life.
 
 **Fashion:** Practical and plain, with natural fabrics and muted tones.
 
-#### Orethia
+#### [[Orethians|Orethia]]
 
 Sturdy and durable clothing suited to mountain and military life.
 
@@ -151,7 +151,7 @@ Sturdy and durable clothing suited to mountain and military life.
 
 **Fashion:** Functional and unadorned, with emphasis on practicality and protection.
 
-#### Naharim
+#### [[Naharim]]
 
 Light and decorated clothing shaped by river culture.
 
@@ -160,7 +160,7 @@ Light and decorated clothing shaped by river culture.
 
 **Fashion:** Elegant and decorative, with vivid colors and natural motifs.
 
-#### Aurelia
+#### [[Aurelians|Aurelia]]
 
 Sophisticated and refined clothing, shaped by art and imperial culture.
 
@@ -169,7 +169,7 @@ Sophisticated and refined clothing, shaped by art and imperial culture.
 
 **Fashion:** Formal and costly, with emphasis on wealth and artistry.
 
-#### Lysandria
+#### [[Lysandrians|Lysandria]]
 
 Functional and democratic clothing suited to city and maritime life.
 
@@ -184,42 +184,42 @@ Functional and democratic clothing suited to city and maritime life.
 
 #### Thalassia
 
-Thalassian festivals are closely bound to the sea and commerce.
+[[Thalassians|Thalassian]] festivals are closely bound to the sea and commerce.
 
 * **Festival of Waves:** A celebration of the sea through sailing races and fishing competitions. The population joins regattas and fishing contests, followed by music, dance, and banquets of fish and seafood.
 * **Merchants' Day:** A festival honoring merchants with open markets and trade fairs. Processions and theatrical performances celebrate the stories of bold merchants and great commercial ventures.
 
 #### Aridonia
 
-Aridonian festivals are shaped by tribal culture and the turning of seasons.
+[[Aridonians|Aridonian]] festivals are shaped by tribal culture and the turning of seasons.
 
 * **Solstice Festival:** A celebration of the summer solstice with tribal dances and offerings to the desert spirits. Tribes gather around fires and offer prayers and songs asking for protection and prosperity.
 * **Rain Festival:** A celebration of the season's first rain with thanksgiving rites and communal feasts. Dances are held under the rain, and abundant meals are shared in gratitude to the gods.
 
 #### Orethia
 
-Orethian festivals are deeply tied to military life and mining resources.
+[[Orethians|Orethian]] festivals are deeply tied to military life and mining resources.
 
 * **Hero's Day:** A celebration of war heroes with military parades and award ceremonies. Warriors are honored with medals and patriotic addresses.
 * **Mining Festival:** A celebration of work in the mines with games, feats of strength, and banquets. Miners compete in skill and endurance, and are recognized for their labor.
 
 #### Naharim
 
-Naharim festivals are shaped by river culture and religion.
+[[Naharim]] festivals are shaped by river culture and religion.
 
 * **River Festival:** A celebration of river life with boat processions and offerings to the water gods. Communities gather on the riverbanks for purification rites and festivities.
 * **Fertility Festival:** A celebration of the land's fertility with agricultural rites and dances. Farmers offer the first fruits of the harvest to the gods and take part in dances symbolizing growth and abundance.
 
 #### Aurelia
 
-Aurelian festivals reflect the richness of imperial culture and historical achievement.
+[[Aurelians|Aurelian]] festivals reflect the richness of imperial culture and historical achievement.
 
 * **Emperor's Festival:** A celebration honoring the emperor with parades, performances, and lavish banquets. The population participates in games and tournaments in the sovereign's honor.
 * **Day of the Arts:** A celebration of arts and culture with exhibitions, concerts, and theatrical performances. Artists and artisans display their work, and prizes are awarded to the finest.
 
 #### Lysandria
 
-Lysandrian festivals are closely linked to democracy and city life.
+[[Lysandrians|Lysandrian]] festivals are closely linked to democracy and city life.
 
 * **Festival of Democracy:** A celebration of democratic institutions with public assemblies, speeches, and athletic contests. Citizens debate politics and participate in competitive games.
 * **Sea Festival:** A celebration of maritime traditions with regattas, nautical games, and festivities by the water. City-states organize fleet competitions and celebrate with song and dance.
@@ -230,7 +230,7 @@ Lysandrian festivals are closely linked to democracy and city life.
 
 #### Thalassia
 
-Thalassian cuisine is rich in maritime flavors and Mediterranean influences.
+[[Thalassians|Thalassian]] cuisine is rich in maritime flavors and Mediterranean influences.
 
 * **Staple Dishes:** Grilled fish, seafood soups, and seaweed salads.
 * **Drinks:** Light, refreshing wines and herbal sea-infusions.
@@ -240,7 +240,7 @@ Thalassian cuisine is rich in maritime flavors and Mediterranean influences.
 
 #### Aridonia
 
-Aridonian cuisine is shaped by desert resources and tribal traditions.
+[[Aridonians|Aridonian]] cuisine is shaped by desert resources and tribal traditions.
 
 * **Staple Dishes:** Meat-and-vegetable stews, couscous, and unleavened bread.
 * **Drinks:** Camel's milk, mint tea, and spiced infusions.
@@ -250,7 +250,7 @@ Aridonian cuisine is shaped by desert resources and tribal traditions.
 
 #### Orethia
 
-Orethian cuisine is hearty and caloric, suited to mountain life.
+[[Orethians|Orethian]] cuisine is hearty and caloric, suited to mountain life.
 
 * **Staple Dishes:** Roasted meats, legume soups, and aged cheeses.
 * **Drinks:** Dark ales and full-bodied wines.
@@ -260,7 +260,7 @@ Orethian cuisine is hearty and caloric, suited to mountain life.
 
 #### Naharim
 
-Naharim cuisine is shaped by river culture and agricultural resources.
+[[Naharim]] cuisine is shaped by river culture and agricultural resources.
 
 * **Staple Dishes:** Rice and legumes, freshwater fish, and vegetable preparations.
 * **Drinks:** Fresh fruit juices, palm wine, and herbal infusions.
@@ -270,7 +270,7 @@ Naharim cuisine is shaped by river culture and agricultural resources.
 
 #### Aurelia
 
-Aurelian cuisine is refined and varied, reflecting imperial influence.
+[[Aurelians|Aurelian]] cuisine is refined and varied, reflecting imperial influence.
 
 * **Staple Dishes:** Pasta and risotto, roasted meats, and vegetable soups.
 * **Drinks:** Fine wines and aromatic liqueurs.
@@ -280,7 +280,7 @@ Aurelian cuisine is refined and varied, reflecting imperial influence.
 
 #### Lysandria
 
-Lysandrian cuisine is simple and wholesome, shaped by local resources and democratic traditions.
+[[Lysandrians|Lysandrian]] cuisine is simple and wholesome, shaped by local resources and democratic traditions.
 
 * **Staple Dishes:** Grilled fish, fresh vegetable salads, and wholegrain bread.
 * **Drinks:** Light white wines and aromatic tisanes.
