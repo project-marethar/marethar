@@ -104,7 +104,7 @@
 ### **The Water Oath**
 
 **Location**: [[Empire of Doria]] / [[Naharim]]
-**Context**: The Dorian River has changed course, devastating fields and sacred temples.
+**Context**: The [[Empire of Doria|Dor River]] has changed course, devastating fields and sacred temples.
 **Rupture**: Some say it is divine punishment. Others suspect engineering sabotage. Meanwhile, a tributary begins to sing.
 **How to Begin Immediately**:
 

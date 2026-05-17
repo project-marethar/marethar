@@ -225,15 +225,17 @@ These alchemical symbols appear as section markers. Do not translate or remove.
 
 ---
 
-## Unverified / TO VERIFY (found in en/part1/)
+## Verified Place Names and Minor Entities
 
-| Term | Found in | Notes |
-|------|----------|-------|
-| Tree Sect | 03_seeds.md | Colloquial name for Sect of Shahin? Possibly "Setta dell'Albero" in Italian — TO VERIFY |
-| Dorian River | 03_seeds.md | River in the Empire of Doria that changes course in "The Water Oath" seed — TO VERIFY |
-| Dor | 05_magic.md | Named river/deity; referenced as "breath of Dor" in Rainbow Serpent entry — TO VERIFY |
-| Desert of Suleiman | 05_magic.md | Named desert not on any official map; "no map can fix it twice" — TO VERIFY |
-| Lurocedina | 04_power.md | Location where an epigraph was carved on a statue fragment — TO VERIFY |
-| Aurel Forest | 05_magic.md | Site of ceremonial clearings for seasonal rites — TO VERIFY |
-| Karnak | 07_technology.md | Mining region producing black copper — TO VERIFY |
-| Thalassos | 09_myths.md | "God of the Sea" who aided Lysander; may be same as Thalaran or separate deity — TO VERIFY |
+These terms are confirmed in the Italian source but have no dedicated wiki page. When linking, route to the parent entity.
+
+| Term | IT Source | English Rendering | Link Target | Notes |
+|------|-----------|-------------------|-------------|-------|
+| Tree Sect | "Shahin, il Dio dell'Albero" (parte5/09_miti.md) | Tree Sect | `[[Sect of Shahin\|Tree Sect]]` | Colloquial name for the Sect of Shahin; Shahin = the Tree God |
+| Dor / Dor River | "il fiume Dor"; "il Dio Dor" (parte2/01_cronologia.md, 02_culture.md) | Dor / the Dor River | `[[Empire of Doria\|Dor]]` | Both the river and the river deity; heart of the Dorian Empire |
+| Dorian River | "il fiume Dor" (parte3/04_domande.md) | Dor River (not "Dorian River") | `[[Empire of Doria\|Dor River]]` | English translation in 03_seeds.md says "Dorian River" — should be "Dor River" |
+| Desert of Suleiman | "Sabbie / Deserto di Suleiman" (parte2/04_geografia.md) | Desert of Suleiman | *(no link target — unmapped zone)* | Southeast desert; no fixed map location; "its sand sings and asks back what was not given" |
+| Aurel Forest | "Foresta di Aurel" (parte1/05_magia.md) | Aurel Forest | *(no link target — named site)* | Site of druidic ceremonial clearings for seasonal rites |
+| Lurocedina | "Il cuore pulsante è Lurocedina" — capital of the Rhithian League (parte2/05_nazioni.md) | Lurocedina | `[[Rhithian League\|Lurocedina]]` | Capital city of the Rhithian League; also a market hub |
+| Karnak | "Karnak è cava e casata" — city in Hamania; "Montagne di Karnak" (parte2/05_nazioni.md, parte5/02_nazioni.md) | Karnak | `[[Grand Duchy of Hamania\|Karnak]]` | Vertically stratified city in Hamania; source of black copper |
+| Thalassos | "Fede di Thalassos vs Culto di Nautilos"; "Thalassos, il Dio del Mare" (parte2/02_culture.md, parte5/09_miti.md) | Thalassos | *(no dedicated page — faith not yet atomized)* | Distinct sea deity from Thalaran; Thalassos = the God of the Sea (Rhithian/Lysandrian); Faith of Thalassos vs Cult of Nautilos are rival sea faiths |
