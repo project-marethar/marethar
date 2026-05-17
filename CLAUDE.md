@@ -95,6 +95,12 @@ quarto render --to epub
 quarto render --to pdf
 ```
 
+**Typst PDF** (book projects don't support typst natively — use the concat pipeline):
+```
+bash scripts/build-typst.sh
+```
+Concatenates all chapters from `_quarto.yml` into a temporary `_master.qmd`, renders with `quarto render --to typst`, then removes the temp file. Output: `_master.pdf`.
+
 Output lands in `_book/`. CI workflow: `.github/workflows/render-book.yml`.
 
 ## /wikilinks command

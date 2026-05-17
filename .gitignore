@@ -9,3 +9,6 @@
 
 # Quartz node_modules (dependencies installed via npm ci in CI)
 /wiki/node_modules/
+
+# Typst build pipeline — temporary concatenated master
+/_master.qmd
